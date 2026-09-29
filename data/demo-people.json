@@ -1,0 +1,3646 @@
+[
+  {
+    "id": "person-01",
+    "name": "Ali Abdaal",
+    "initials": "AA",
+    "headline": "👨‍⚕️ Doctor-turned-Entrepreneur + Productivity Expert + YouTuber (6M subs) 📘 New York Times Bestselling Author of “Feel-Good Productivity”",
+    "summary": "Ali Abdaal is a former doctor turned entrepreneur, author, and YouTuber who focuses on productivity, health, and technology. He actively shares content across multiple platforms, including a popular YouTube channel, podcast, and newsletter, while promoting his book and related workshops.",
+    "color": "lavender",
+    "linkedinUrl": "https://www.linkedin.com/in/aliabdaal/",
+    "instagramUrl": "https://www.instagram.com/aliabdaal/",
+    "instagramHandle": "aliabdaal",
+    "evidence": [
+      {
+        "id": "p1-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/aliabdaal/",
+        "text": "👨‍⚕️ Doctor-turned-Entrepreneur + Productivity Expert + YouTuber (6M subs) 📘 New York Times Bestselling Author of “Feel-Good Productivity”",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:11:25.045Z",
+        "access": "apify"
+      },
+      {
+        "id": "p1-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/aliabdaal/",
+        "text": "I’m Ali, a YouTuber, podcaster, author of New York Times and Sunday Times bestseller, Feel-Good Productivity, and ex-Doctor working in London, UK.\n\nI make videos that explore the strategies and tools that help us live happier, healthier and more productive lives. I also have a weekly podcast called Deep Dive and I write a weekly email newsletter that contains some quick thoughts + links to interesting things.\n\nI studied Medicine for 6 years at Cambridge University, and graduated in 2018. On my YouTube channel (4.5 million subscribers) I make videos about medicine, tech and productivity. \n\n📚 C",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:11:25.045Z",
+        "access": "apify"
+      },
+      {
+        "id": "p1-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/aliabdaal/",
+        "text": "👨‍⚕️ Doctor turned Entrepreneur\n📚 NYT Bestselling Book: Feel-Good Productivity\n📲 DM me “ACADEMY” for info on @lifestylebusinessacademy\n👇 Join my reset",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:11:25.045Z",
+        "access": "apify"
+      },
+      {
+        "id": "p1-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/C-6WJTCsSQI/",
+        "text": "Life update - we got married 🥰💍💒\n\n.\n.\n.\n\n📸 @camillajoyphotography",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:11:25.045Z",
+        "access": "apify"
+      },
+      {
+        "id": "p1-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/C1ZeomiIfNV/",
+        "text": "It’s official! My first book Feel-Good Productivity is now available to buy around the world 🤯\n\nHumbled and awed by all the support for the book so far. Reminder to please submit your receipt on the form on the website (link in bio) to get your free ticket for my Jan 6th 2024 Annual Planning Workshop. It’s a 3-hour live online workshop where I’ll take you through some great exercises to reflect on 2023, and create goals, plans and system to help make 2024 the best year of your life 😛 you’ve got until Dec 30th to grab a copy if you’d like to attend the Annual Planning Workshop.\n\nMuch love ❤️",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:11:25.045Z",
+        "access": "apify"
+      },
+      {
+        "id": "p1-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DdxRcEyivjI/",
+        "text": "We all have the exact same 168 hours in a week ⏳\n\nIf you sleep for 56 hours and spend about 12 hours on essentials like eating, you are left with 100 hours a week to play with.\n\nThink of these as 100 tokens.\n\nEvery single choice you make is just a matter of where you choose to allocate those tokens.\n\nThe truth is, everything we do involves a sacrifice:\n\n🏋️ Going to the gym? You're sacrificing time with your loved ones.\n\n💻 Working your 9-to-5? You're sacrificing time with your loved ones.\n\n🕹️ Playing video games? You're sacrificing time with your loved ones.\n\nBuilding a business isn't unique",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:11:25.045Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Entrepreneurship",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p1-li-1",
+          "p1-li-2"
+        ]
+      },
+      {
+        "label": "Writing",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p1-li-1",
+          "p1-li-2"
+        ]
+      },
+      {
+        "label": "Technology",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p1-li-2"
+        ]
+      },
+      {
+        "label": "Productivity",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p1-li-1",
+          "p1-li-2",
+          "p1-ig-6"
+        ]
+      },
+      {
+        "label": "Health",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p1-li-2"
+        ]
+      },
+      {
+        "label": "Personal Growth",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p1-ig-6"
+        ]
+      },
+      {
+        "label": "Book Publishing",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p1-li-1",
+          "p1-ig-5"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to transition from medicine to entrepreneurship?",
+      "Which productivity tools do you find most effective for your daily routine?",
+      "How do you balance creating content with maintaining personal wellbeing?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "The Instagram account and LinkedIn profile share the full name, author and creator roles, and productivity focus. LinkedIn posts also appear under the ali-abdaal alias.",
+    "createdAt": "2026-09-29T12:11:25.047Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-19/274748400_373125061318088_2457188579456296139_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gE0lpNXNov0HqH9SxbT3RJZQu9H230BKRnyRaV83LACMtpP_54nPhaZB_hp65KNWfs&_nc_ohc=t7T8FX5_Zx8Q7kNvwF4HdI9&_nc_gid=tuEmZooDIqQH8OiKHpPPmA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMTnTHsJgksq7Dw_VMXI5v9RImGH8Ila2RPWM0bNgDT1g&oe=6AC16DCC&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-02",
+    "name": "Ankur Warikoo",
+    "initials": "AW",
+    "headline": "Founder @WebVeda, @IndiaGeniusChallenge @Monzy • 6X Bestselling Author • 16M+ community",
+    "summary": "Ankur Warikoo is a serial entrepreneur and author who focuses on empowering people to make informed life choices, sharing insights on career, mindset, startups, personal finance, and relationships through his social platforms. He actively promotes learning, personal growth, and practical challenges to improve communication, decision-making, and financial habits.",
+    "color": "lavender",
+    "linkedinUrl": "https://www.linkedin.com/in/warikoo/",
+    "instagramUrl": "https://www.instagram.com/ankurwarikoo/",
+    "instagramHandle": "ankurwarikoo",
+    "evidence": [
+      {
+        "id": "p2-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/warikoo/",
+        "text": "Founder @WebVeda, @IndiaGeniusChallenge @Monzy • 6X Bestselling Author • 16M+ community",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:11:26.072Z",
+        "access": "apify"
+      },
+      {
+        "id": "p2-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/warikoo/",
+        "text": "My overarching mission is to empower people to make choices in life from a point of awareness, not ignorance.\n\nOver the past 18 years in the internet and technology space, I’ve had the privilege of working on several ventures - founding some, investing in others, and learning from all. \n\nOver 16 million people follow my work across social platforms, where I share my experiences and insights on career, mindset, startups, personal finance, and relationships.\n\nToday, my main focus is building my 3 startups\n\n1/ WebVeda.com\nA growth platform, offering skills, community and jobs at an annual subscri",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:11:26.072Z",
+        "access": "apify"
+      },
+      {
+        "id": "p2-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/ankurwarikoo/",
+        "text": "Founder: WebVeda | India Genius Challenge | Monzy\nLove learning, teaching and sharing ❤️",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:11:26.072Z",
+        "access": "apify"
+      },
+      {
+        "id": "p2-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/Da4fn6Ysmtq/",
+        "text": "5 one-month challenges that can change your life:\n(Save this for progress!)\n\n1. The communication challenge.\n\nFor the next 30 days, record yourself for one minute. \nWatch the video. Note down the mistakes. \nThe next day, try to improve them.\n\n2. The ‘saying no’ challenge. \n\nThe things you often say yes to - to your boss, your parents, your friends - slowly practice saying no.\n\nFor 30 days, say no at least once every day in a situation where you used to say yes.\n\n3. The decision-making challenge.\n\nWhenever you have to make an important decision, give yourself a 10-minute timer. \nYou must take a",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:11:26.072Z",
+        "access": "apify"
+      },
+      {
+        "id": "p2-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DazWtvvKeva/",
+        "text": "5 money rules my wife and I follow as a couple aged 45 with two kids.\n\n1. We don’t spend money to look rich. \n\nWe spend to become wealthy and gain freedom of our time.\n\nSo, there’s no car. It’s rented. \nWe own the house we live in, no other real estate.\n\nNo spending on brands. No spending just to show off to people.\n\n2. We spend extravagantly on high-quality food.\n\nWe know that what goes into our body is ultimately the biggest wealth we have, and unfortunately, healthy food is not cheap.\n\n3. We spend on experiences more than things.\n\nThings give you happiness once, and they have no end.\n\nYou r",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:11:26.072Z",
+        "access": "apify"
+      },
+      {
+        "id": "p2-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DU-iSoHjA1F/",
+        "text": "Before you say yes to marriage, check these 5 things.\n\n1. Why are you getting married? Is it for the sake of society? Is it for the sake of your parents? Is it for your own good?\n\n2. How do you handle fights with your partner? Because fights will continue. If you handle them properly, then relationships will progress.\n\n3. Do you have an alignment on money and responsibility? How will you spend money? How will you share responsibilities?\n\n4. Do you have space for your own personality? You can make friends without involving their friends. You can live your own life without depending on them.\n\n5.",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:11:26.072Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Entrepreneurship",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p2-li-1",
+          "p2-li-2"
+        ]
+      },
+      {
+        "label": "Writing",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p2-li-1"
+        ]
+      },
+      {
+        "label": "Learning",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p2-ig-3",
+          "p2-ig-4"
+        ]
+      },
+      {
+        "label": "Personal Growth",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p2-li-2",
+          "p2-ig-4"
+        ]
+      },
+      {
+        "label": "Finance",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p2-li-2",
+          "p2-ig-5"
+        ]
+      },
+      {
+        "label": "Wellbeing",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p2-ig-5"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to start the India Genius Challenge?",
+      "How do you decide which challenges to promote on Instagram?",
+      "What’s the most surprising lesson you’ve learned from your 16 million followers?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "Both profiles use Ankur Warikoo and identify his education businesses and Monzy; Instagram names WebVeda and India Genius Challenge.",
+    "createdAt": "2026-09-29T12:11:26.073Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://instagram.fsdu12-1.fna.fbcdn.net/v/t51.2885-19/502391989_18363247591150226_2569829003856402432_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsdu12-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFILhVofHdFSlhnIdmr29PtZM1-j6L3ryFAQ72_6AmqegxJTBn66ZmcMFNEfMn_dIU&_nc_ohc=csQIdwBct0sQ7kNvwHskCTI&_nc_gid=aynXSoMMFvlQfGt8agU-ew&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPKytBiR9kJ0qptZY9YR9AcocdXToRYzGD62mLA5V6Ovg&oe=6AC16B72&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-03",
+    "name": "Raj Shamani",
+    "initials": "RS",
+    "headline": "Founder & Host @ Figuring Out | Building Cüraa by YFL Home |  Bestselling Author, Build Don’t Talk",
+    "summary": "Raj Shamani is a serial entrepreneur, author, and podcast host who focuses on interviewing high‑performers to uncover insights on money, business, health, and relationships. He actively shares his learning journey and encourages others to pursue growth and creativity through his media platforms.",
+    "color": "ochre",
+    "linkedinUrl": "https://www.linkedin.com/in/rajshamani/",
+    "instagramUrl": "https://www.instagram.com/rajshamani/",
+    "instagramHandle": "rajshamani",
+    "evidence": [
+      {
+        "id": "p3-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/rajshamani/",
+        "text": "Founder & Host @ Figuring Out | Building Cüraa by YFL Home |  Bestselling Author, Build Don’t Talk",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:11:34.823Z",
+        "access": "apify"
+      },
+      {
+        "id": "p3-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/rajshamani/",
+        "text": "Hi, I’m Raj.\n\n​Some people meditate for peace, I ask questions. \nBasically, my work is to meet the smartest people and get into their minds. Not literally. \n\nI talk to them to learn from their expertise, their choices, and their life. And I take my viewers along for the ride.\n\nFor me, figuring out money, business, health, relationships, and life was so confusing in the beginning, and I’m sure so many others face the same problem. \n\nBut it gets a little bit easier when you have the right people sharing their lessons (and occasional disasters).\n\nWhen I’m not doing that, I’m hanging out with my d",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:11:34.823Z",
+        "access": "apify"
+      },
+      {
+        "id": "p3-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/rajshamani/",
+        "text": "Purpose: To help people live & love better ✨\nPodcast Host: @figuringout.co 🇮🇳\nI study the science of winning in modern world.",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:11:34.823Z",
+        "access": "apify"
+      },
+      {
+        "id": "p3-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/CrNUTeaRk5i/",
+        "text": "Tag one person in the comments who you think is on their way to become a creator 👇🏻\n\n#contentcreation #figuringout #rajshamani",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:11:34.823Z",
+        "access": "apify"
+      },
+      {
+        "id": "p3-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/C3xfBJxRs0G/",
+        "text": "MY DREAM CONCERT 🤫\n\nWho said in India people only pay for music concerts and entertainment?\n\nLook at the biggest convention center of the country jam packed with thousands of people, who are there for growth.\n\nIndia is changing and India wants to grow🫡 \n\nPost 1: Look at the face of this kid on the stage who is living a dream he saw at the age of 19 with no money, no influence and no fancy degree, to deliver a speech in front of fully sold out stadium. 🫣\n\nPost 2: My parents saw me live at a conference for the first time, this proud look on their face is the reason why I am happy crying rn❤️\n",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:11:34.823Z",
+        "access": "apify"
+      },
+      {
+        "id": "p3-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/CoC8mezvr_s/",
+        "text": "At age 16, I used to go to English classes to learn how to speak English fluently and while sitting in the tuition centre I used to write random dreams at the back of my notebook. 😂 \n\nI had no talent, no background, was not from a big city, did not have good grades to make it to IIT / IIM, and wasn’t even able to speak in English properly but I used to believe that I had ‘shaka-laka boom boom magic) 😂 \n\n29th July 2013 - I wrote in my dairy that I will be on the cover of Forbes magazine, (I and my sisters laughed at this crazy dream)\n\nAge 26 - I made it to Forbes cover and Forbes 30 under 30.",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:11:34.823Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Entrepreneurship",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p3-li-1"
+        ]
+      },
+      {
+        "label": "Writing",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p3-li-1"
+        ]
+      },
+      {
+        "label": "Podcast Hosting",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p3-li-1",
+          "p3-ig-3"
+        ]
+      },
+      {
+        "label": "Learning/Personal Growth",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p3-li-2",
+          "p3-ig-3"
+        ]
+      },
+      {
+        "label": "Content Creation",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p3-ig-4"
+        ]
+      },
+      {
+        "label": "Music & Events",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p3-ig-5"
+        ]
+      },
+      {
+        "label": "Language Learning",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p3-ig-6"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to start interviewing the smartest people?",
+      "How do you balance your entrepreneurial ventures with your podcasting and writing?",
+      "What future topics or guests are you most excited to explore on Figuring Out?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "The same name and Figuring Out brand appear on both accounts. Instagram identifies him as the podcast host.",
+    "createdAt": "2026-09-29T12:11:34.824Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/420869272_288514803873421_8324884273493298411_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NzQuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGlSEYk0dCx0xXbF0zCg1csxRFatSpCW-6FaGcLlUY5_A6kW3-4tEEf8KCrPL5K_e7ePhdymHLP_ZnAbDOehj39&_nc_ohc=BPSUmkS8BQIQ7kNvwHDkSOR&_nc_gid=Dms03iWB-RDD-gKFk764RQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNwbstEIEMmWIdDfJRqpTeYcmdzJruTLypBGj1GiPyxnA&oe=6AC16526&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-04",
+    "name": "Ranveer Allahbadia",
+    "initials": "RA",
+    "headline": "Founder at BeerBiceps Media World Pvt. Ltd. | Forbes 30 under 30",
+    "summary": "Ranveer Allahbadia is a Mumbai-born entrepreneur and media creator who has grown a digital media empire from a fitness YouTube channel to a multi‑channel platform with millions of views and a podcast host. He is also a frequent traveler, sharing personal reflections from trips such as Ladakh and Africa, and he collaborates with several co‑founders across entertainment ventures.",
+    "color": "sage",
+    "linkedinUrl": "https://www.linkedin.com/in/beerbiceps/",
+    "instagramUrl": "https://www.instagram.com/beerbiceps/",
+    "instagramHandle": "beerbiceps",
+    "evidence": [
+      {
+        "id": "p4-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/beerbiceps/",
+        "text": "Founder at BeerBiceps Media World Pvt. Ltd. | Forbes 30 under 30",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:11:43.021Z",
+        "access": "apify"
+      },
+      {
+        "id": "p4-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/beerbiceps/",
+        "text": "I'm Ranveer Allahbadia - creator, entrepreneur, and host of The Ranveer Show.\nOver 10 years, I've gone from posting fitness videos in my bedroom to building an ecosystem of brands, channels, and communities that reach millions every single day. 1000+ podcast episodes in, and the curiosity hasn't faded one bit.\n\n30 billion views later, I'm still just a curious kid from Mumbai trying to figure out what makes great humans great.\n\nHere's what I'm building:\n\nBeerBiceps Media Pvt. Ltd. - Started as a fitness YouTube channel, now a full-scale digital media company - podcasts, short-form content, and ",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:11:43.021Z",
+        "access": "apify"
+      },
+      {
+        "id": "p4-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/beerbiceps/",
+        "text": "Traveller + Creator + Curious Human\n-\nCo-founder : @monkentertainment, @swaaha.me, @skillhouse_media, @big.brainco, @theranveershowpodcast.",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:11:43.021Z",
+        "access": "apify"
+      },
+      {
+        "id": "p4-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DdWfciSKNtq/",
+        "text": "My best travel experience so far! ✨\n\n#beerbiceps #travel #africa",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:11:43.021Z",
+        "access": "apify"
+      },
+      {
+        "id": "p4-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DcgibOIB7FX/",
+        "text": "Love you, Ladakh. Kind of sad I couldn’t stay here for longer.\n\nOne of the most peaceful trips I’ve ever had, I self reflected more than I expected, learned so much about Buddhist culture, mountain life and honestly about myself too. I feel like a different person coming back from here. ❤️🏔️\n\nSong Credits:- The Silent Echo (@sumansen )\n\n#ladakh #travel #beerbiceps",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:11:43.021Z",
+        "access": "apify"
+      },
+      {
+        "id": "p4-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DcgicldBFhR/",
+        "text": "I have explored a lot of the Himalayas, but Ladakh is easily the prettiest place I have seen.\n\nThe most enlightened, most peaceful trip of my life. If you ever get the chance to go to Ladakh, say YES. ❤️",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:11:43.021Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Entrepreneurship",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p4-li-1",
+          "p4-li-2"
+        ]
+      },
+      {
+        "label": "Content Creation",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p4-li-2"
+        ]
+      },
+      {
+        "label": "Travel",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p4-ig-3",
+          "p4-ig-4",
+          "p4-ig-5",
+          "p4-ig-6"
+        ]
+      },
+      {
+        "label": "Podcasting",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p4-li-2"
+        ]
+      },
+      {
+        "label": "Fitness",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p4-li-2"
+        ]
+      },
+      {
+        "label": "Self‑Reflection",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p4-ig-5"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What motivates you to keep exploring new cultures through travel?",
+      "How do you balance the demands of running a media company with your personal creative projects?",
+      "What’s the next big venture you’re excited to launch?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "Both official accounts share the BeerBiceps handle, Ranveer Allahbadia name and Monk Entertainment/creator identity.",
+    "createdAt": "2026-09-29T12:11:43.021Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://instagram.fktw4-1.fna.fbcdn.net/v/t51.82787-19/523850199_18520327690057372_1079126670119535895_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fktw4-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gEwyuFhScyP1z6IAOai9G_AXsSqSWYFZFAd8cxc8rCYqNZH0dbv0zAgpjjAEA8_gfw&_nc_ohc=0W9uIeF9JuwQ7kNvwHSdBF-&_nc_gid=vYuEvgm1qcdOHV8EOX1Ffw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPCbz9yvyFrNoGxmLslm0owMm09OEgt0vR1n6k1QlrUIg&oe=6AC16255&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-05",
+    "name": "Varun Mayya",
+    "initials": "VM",
+    "headline": "Hacking around ",
+    "summary": "Varun Mayya is a tech entrepreneur and content creator who actively shares insights on AI, software development, and startup strategy across LinkedIn and Instagram. He frequently discusses emerging technologies, design, and the evolving role of prompt engineering and code in the industry.",
+    "color": "rose",
+    "linkedinUrl": "https://www.linkedin.com/in/varunmayya/",
+    "instagramUrl": "https://www.instagram.com/thevarunmayya/",
+    "instagramHandle": "thevarunmayya",
+    "evidence": [
+      {
+        "id": "p5-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/varunmayya/",
+        "text": "Hacking around",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:11:52.176Z",
+        "access": "apify"
+      },
+      {
+        "id": "p5-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/varunmayya/",
+        "text": "Builder, hacker, content creator, idiot",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:11:52.176Z",
+        "access": "apify"
+      },
+      {
+        "id": "p5-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/thevarunmayya/",
+        "text": "⚡ Founder @yaas.media @aeosgroup, @aeos.labs @aeosgamesofficial \n🤹 Stay up to date with the absolute latest in tech/AI\n📧 teamvarunmayya@gmail.com",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:11:52.176Z",
+        "access": "apify"
+      },
+      {
+        "id": "p5-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DIB4N7-oJ-m/",
+        "text": "Coming soon. We talk: \n\n- Indian 4o Image gen usage (some numbers too)\n- Design jobs\n- Miyazaki's, AI, and the evolving nature of art\n- How should founders think about building rn (wrappers or not)\n- Is prompt engineering a real job?\n- Evolution of code\n\n+ more\n\nSub to YT!",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:11:52.176Z",
+        "access": "apify"
+      },
+      {
+        "id": "p5-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DExE3UOhUoq/",
+        "text": "Full Podcast Link In Bio. \n\nSatya Nadella on “Is SaaS dead?, How 2025 is the year of Agents, Advice for Indian Engineers, and more!”",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:11:52.176Z",
+        "access": "apify"
+      },
+      {
+        "id": "p5-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/C7CPlnDLW9W/",
+        "text": "I also asked Sundar what he thinks of wrapper startups 😁\n\nComing soon. Make sure you subscribe to me on YouTube. You don’t want to miss this.",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:11:52.176Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Entrepreneurship",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p5-ig-3"
+        ]
+      },
+      {
+        "label": "Technology",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p5-ig-3",
+          "p5-ig-4"
+        ]
+      },
+      {
+        "label": "AI",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p5-ig-3",
+          "p5-ig-4"
+        ]
+      },
+      {
+        "label": "Content Creation",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p5-li-2",
+          "p5-ig-5"
+        ]
+      },
+      {
+        "label": "Podcasting",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p5-ig-5"
+        ]
+      },
+      {
+        "label": "Design",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p5-ig-4"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to start your own media and AI-focused companies?",
+      "How do you see the role of prompt engineering evolving in the next few years?",
+      "What advice would you give to engineers looking to launch a startup in the AI space?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "Both profiles use Varun Mayya, name Aeos Group and describe technology/AI creation.",
+    "createdAt": "2026-09-29T12:11:52.176Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://scontent-mia3-2.cdninstagram.com/v/t51.82787-19/569029946_18290634061256762_9126468070589302935_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHc47ThzcsLO7MefLec5T8yV0VoYguszsfTfFngashKT5w5ORbGy6ujGflmwIBllGk&_nc_ohc=TYvU8Vb9G1oQ7kNvwELHaYY&_nc_gid=ui-BfAXKAW_nLL7cXLiAPw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQM6V0Hp0jIEBGXoWGUO2kKy7yLaQ4b4AmcVLfWeI1K4uQ&oe=6AC182CE&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-06",
+    "name": "Ishan Sharma",
+    "initials": "IS",
+    "headline": "2M+ Subs on YouTube | Enterprise AI Trainings | BITS Goa",
+    "summary": "Ishan Sharma is a high‑profile YouTube creator and marketing agency owner focused on AI, business, and upskilling. He actively shares entrepreneurial insights, authors books on unicorn founders, and engages with media and audiences through podcasts and social content.",
+    "color": "rose",
+    "linkedinUrl": "https://www.linkedin.com/in/ishansharma7390/",
+    "instagramUrl": "https://www.instagram.com/ishansharma7390/",
+    "instagramHandle": "ishansharma7390",
+    "evidence": [
+      {
+        "id": "p6-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/ishansharma7390/",
+        "text": "2M+ Subs on YouTube | Enterprise AI Trainings | BITS Goa",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:12:00.043Z",
+        "access": "apify"
+      },
+      {
+        "id": "p6-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/ishansharma7390/",
+        "text": "I'm a YouTube creator with 1.7M+ subs making videos on upskilling, business and AI. The goal is to help people make a living doing what they love.\n\nI also run MarkitUp, a marketing agency based in Bengaluru helping brands grow on social with organic and shareable content. MarkitUp has worked with 40+ brands, from individuals and startups to publicly listed enterprises in India and companies in US & UK.\n\nI co-authored Unlocking Unicorn Secrets with Kushal Lodha with a mission to uncover stories of 20 Unicorn founders in India, from childhood to building a billion dollar company. These include R",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:12:00.043Z",
+        "access": "apify"
+      },
+      {
+        "id": "p6-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/ishansharma7390/",
+        "text": "📽️YouTube | AI | Business | Freelancing\n🎙Host @limitlesswithishan \n💼Building @markitup_in \n📘 Bestselling Author @unicornsecretbook \nClick here👇",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:12:00.043Z",
+        "access": "apify"
+      },
+      {
+        "id": "p6-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/Dd1jz4nH4Pv/",
+        "text": "Look maa, I'm on TV!🥹✨\n\nThanks to NDTV for inviting me to talk about AI and how it's impacting all of us at work and in life.\n\nLoved chatting with panelists @gayatri.tech @samyak_chakrabarty on this.\n\n@theaayushailawadi was the best host as always. MP brothers making it BIG!🔥\n\nWhat an memorable day.",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:12:00.043Z",
+        "access": "apify"
+      },
+      {
+        "id": "p6-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/Ddyn5HPsP92/",
+        "text": "Dont make THIS mistake at 21!❌\n\nI recently made a video in which I shared earning by age: how much should you be making at the ages of 21, 25, and 30?\n\nIn the first section we were talking about how much you should be making as a 21-year-old. While the average number came out to be about ₹25,000 per month, the most important factor had nothing to do with the money that you were making. These were five very important things that every 21-year-old should be focusing on:\n1. Are you able to communicate with clarity?\n2. Are you learning from people who are better than you every single day?\n3. Do yo",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:12:00.043Z",
+        "access": "apify"
+      },
+      {
+        "id": "p6-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/Ddtlze1o8D9/",
+        "text": "This video is sponsored by Bluehost.\n\nI wanted to test something simple:\nCan you turn a skill into something that actually looks like a business in 30 minutes?\n\nBecause honestly, so many people have skills that could be a business. \nThey just don't have a professional place to show it. \nNo website. No portfolio. And that gap costs them real clients. \n\nSo I picked video editing and gave myself half an hour to make it real.\n\nI used Bluehost AI Website Builder to build this, described what I wanted, refined it through conversation, added my services and work samples, and fixed the little details.",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:12:00.043Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Entrepreneurship",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p6-li-2",
+          "p6-ig-3"
+        ]
+      },
+      {
+        "label": "Writing",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p6-li-2",
+          "p6-ig-3"
+        ]
+      },
+      {
+        "label": "Technology",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p6-li-1",
+          "p6-li-2"
+        ]
+      },
+      {
+        "label": "Business",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p6-li-2",
+          "p6-ig-3"
+        ]
+      },
+      {
+        "label": "Education/Up‑skilling",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p6-li-2",
+          "p6-ig-5"
+        ]
+      },
+      {
+        "label": "Media/Podcasting",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p6-ig-3",
+          "p6-ig-4"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to transition from BITS Goa to a full‑time content creator and agency owner?",
+      "How do you balance creating educational content with running a marketing agency?",
+      "Which upcoming AI trend do you think will most impact small businesses in the next year?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "Both accounts have the same distinctive handle and full name and explicitly identify MarkitUp.",
+    "createdAt": "2026-09-29T12:12:00.043Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://scontent-gru1-2.cdninstagram.com/v/t51.82787-19/526183439_18082131514882235_6770573163656859811_n.jpg?_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=R_h8y9WRlZMQ7kNvwHxRRhz&_nc_oc=Ado911WXIU4fXM4BZQZY5u7DvACWFR34TUik2kWBY_-ana5s4eKiUhuxPXAqrSOukFk&_nc_zt=24&_nc_ht=scontent-gru1-2.cdninstagram.com&_nc_gid=UYNaMNWs7touSHaQD8f7oQ&_nc_ss=73689&oh=00_AQM_ml9Ud1no-HdmFlBvrCK3f0EULp2D8tIZipRGdEWHbg&oe=6AC162CA"
+  },
+  {
+    "id": "person-07",
+    "name": "Sharan Hegde",
+    "initials": "SH",
+    "headline": "Building 1% Club - AI CFO for your money",
+    "summary": "Sharan Hegde is a finance entrepreneur who builds AI‑driven personal finance solutions and runs a large team behind the 1% Club app. He actively shares leadership insights and financial education across LinkedIn, Instagram, YouTube, and X, positioning himself as a public figure in fintech and personal finance.",
+    "color": "clay",
+    "linkedinUrl": "https://www.linkedin.com/in/sharanhegde95/",
+    "instagramUrl": "https://www.instagram.com/financewithsharan/",
+    "instagramHandle": "financewithsharan",
+    "evidence": [
+      {
+        "id": "p7-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/sharanhegde95/",
+        "text": "Building 1% Club - AI CFO for your money",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:12:08.883Z",
+        "access": "apify"
+      },
+      {
+        "id": "p7-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/sharanhegde95/",
+        "text": "Hey, I am Sharan Hegde, better known as Finance With Sharan.\n\nWith 1 Crore+ followers across Instagram, YouTube & LinkedIn and X, you have probably seen my finance videos pop up in your feed. But LinkedIn is where I tell a different story. This is where I build in public.\n\nRight now, with a team of 200+ people, I am building something I genuinely believe Indians have been waiting for: an AI-first personal finance app inside 1% Club.\n\nBut before I get there, a little backstory.\n\nIt started in school, when I could not crack IIT (the classic Indian household story). That setback made me fiercely ",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:12:08.883Z",
+        "access": "apify"
+      },
+      {
+        "id": "p7-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/financewithsharan/",
+        "text": "Founder & CEO @onepercentclub\nSEBI RIA: INA000018896\n-\n1% Club App (500k+ installs) ⬇️",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:12:08.883Z",
+        "access": "apify"
+      },
+      {
+        "id": "p7-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DcOScb8sVIA/",
+        "text": "Introducing the new 1% Club app!🚀",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:12:08.883Z",
+        "access": "apify"
+      },
+      {
+        "id": "p7-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DFsGrPXooLg/",
+        "text": "It’s official!! We got SEBI-registered as a RIA (Registered Investment Advisor) last year, the holy grail license to give financial advice allowing us to currently manage ₹750 Crore+ in assets under Advisory.\n\nThe SEBI chairman recently stated that India needs 1 million RIAs to bridge the financial gap. Currently we have only 1,300. That’s like 1 for every 10 lakh people in India. Imagine having only one doctor per 10 lakh people! Scary right? \n\nThis significant gap shows the urgent need for more qualified financial advisors to serve our diverse population. To have only 1,300 doctors in India ",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:12:08.883Z",
+        "access": "apify"
+      },
+      {
+        "id": "p7-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/Dd1dFHZs64o/",
+        "text": "What if your employees could publicly rate their CEO? 👀\n\nOne CEO created a system where employees could openly complain about him,  because leadership isn’t about giving instructions. It’s about bringing out the best in the people you lead.\n\nIf you’re only measuring and managing people, you’re a manager. If you’re able to enthuse, encourage and enable them, that’s leadership.\n\n#FinanceWithSharan #Leadership #CEO #Management #LeadershipLessons",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:12:08.883Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Entrepreneurship",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p7-li-1",
+          "p7-li-2",
+          "p7-ig-3"
+        ]
+      },
+      {
+        "label": "Technology",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p7-li-1",
+          "p7-li-2"
+        ]
+      },
+      {
+        "label": "Finance",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p7-li-2",
+          "p7-ig-5"
+        ]
+      },
+      {
+        "label": "Leadership",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p7-ig-6"
+        ]
+      },
+      {
+        "label": "Personal Growth",
+        "category": "interest",
+        "status": "tentative",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p7-ig-6"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to pivot from traditional finance to an AI‑first personal finance app?",
+      "How do you balance building a large team with maintaining a clear vision for the 1% Club?",
+      "What leadership practices do you find most effective in motivating a 200‑person team?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "LinkedIn explicitly says he is better known as Finance With Sharan; both accounts identify 1% Club.",
+    "createdAt": "2026-09-29T12:12:08.883Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://scontent-lhr6-2.cdninstagram.com/v/t51.2885-19/194939523_507712347314952_358000276907710830_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHmX7iXSBaDA9fHeVgfmLKwNT6w6mhZOAFkhoq52jNRd2bv5zerudP_8Hce3d7x8qc&_nc_ohc=HHOZLVXCLl0Q7kNvwEpGHFW&_nc_gid=JfilEs0BWxw6PXCbyRffEA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPYbjkV9m1ZLuYBg7mHRGn4g9XZ7nsBcmegYRu31fBIhQ&oe=6AC17407&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-08",
+    "name": "Kunal Shah",
+    "initials": "KS",
+    "headline": "Head - WhatsApp, Founder - CRED, curious. ",
+    "summary": "Kunal Shah is a senior technology executive currently heading WhatsApp and has founded the fintech company CRED. He publicly celebrates milestones and expresses gratitude for his team's achievements.",
+    "color": "slate",
+    "linkedinUrl": "https://www.linkedin.com/in/kunalshah1/",
+    "instagramUrl": "https://www.instagram.com/kunalb11/",
+    "instagramHandle": "kunalb11",
+    "evidence": [
+      {
+        "id": "p8-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/kunalshah1/",
+        "text": "Head - WhatsApp, Founder - CRED, curious.",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:12:17.404Z",
+        "access": "apify"
+      },
+      {
+        "id": "p8-ig-2",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/kunalb11/",
+        "text": "Head @whatsapp \nFounder @cred_club",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:12:17.404Z",
+        "access": "apify"
+      },
+      {
+        "id": "p8-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DRhi2yggaW3/",
+        "text": "A big thank you on behalf of everyone at @cred_club as we turn 7. 🙏",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:12:17.404Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Entrepreneurship",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p8-li-1",
+          "p8-ig-2"
+        ]
+      },
+      {
+        "label": "Technology",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p8-li-1",
+          "p8-ig-2"
+        ]
+      },
+      {
+        "label": "Leadership",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p8-li-1",
+          "p8-ig-2"
+        ]
+      },
+      {
+        "label": "Team Appreciation",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p8-ig-3"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to transition from WhatsApp to founding CRED?",
+      "How do you balance your roles as Head of WhatsApp and Founder of CRED?",
+      "What are your future plans for CRED’s growth?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "The verified Instagram account names CRED and WhatsApp, matching the name and roles on the official LinkedIn profile.",
+    "createdAt": "2026-09-29T12:12:17.404Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://scontent-gmp1-1.cdninstagram.com/v/t51.2885-19/72473763_534022740715071_6465460720187211776_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFCtCbxqUStTgVe3Ig7FJdlAf3ReU_fd8uyAWg3Z-Fd-9-Ac-SoMhF6T_5LYADLp_g&_nc_ohc=gIwHLnjXrCAQ7kNvwGrpmbn&_nc_gid=TRFVZxiV1-K65omqRCJQiQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMjS0LjOumQN57YYAShkDghnJzY9NQkWcto3Itbvfd3UA&oe=6AC16717&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-09",
+    "name": "CA Rachana Ranade",
+    "initials": "CR",
+    "headline": "Stock Market & Finance Educator | 9.5M+Strong Community                                                                                                                         For Collabs: brands@rachanaranade.com",
+    "summary": "CA Rachana Ranade is a seasoned finance educator with a focus on simplifying stock market concepts for a large online community. She emphasizes long‑term investing and financial discipline through her teaching and personal example.",
+    "color": "lavender",
+    "linkedinUrl": "https://www.linkedin.com/in/carachanaranade/",
+    "instagramUrl": "https://www.instagram.com/ca_rachanaranade/",
+    "instagramHandle": "ca_rachanaranade",
+    "evidence": [
+      {
+        "id": "p9-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/carachanaranade/",
+        "text": "Stock Market & Finance Educator | 9.5M+Strong Community                                                                                                                         For Collabs: brands@rachanaranade.com",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:12:25.432Z",
+        "access": "apify"
+      },
+      {
+        "id": "p9-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/carachanaranade/",
+        "text": "We have the objective of building financial discipline in the masses by simplifying Stock Market Education and Financial concepts. Our leader CA Rachana Ranade is the spearhead in this mission. With her 10 years of experience in teaching more than 10,000 students in-person and more than 1,000,000 students online, we are driven to make a change and that is why we are Gardeners of your curiosity!",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:12:25.432Z",
+        "access": "apify"
+      },
+      {
+        "id": "p9-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/ca_rachanaranade/",
+        "text": "Stock Market & Finance Educator \n🎯 9.5M+ Strong Community \n📧 For Collabs: brands@rachanaranade.com\n⬇️ Learn Before You Invest",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:12:25.432Z",
+        "access": "apify"
+      },
+      {
+        "id": "p9-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/Cg1ae7iDxA6/",
+        "text": "When you are a long-term investor, you should not let the short-term changes bother you. In fact, anything short-term does not really pertain to your investments. Remember to always focus on the bigger picture, which is your long-term financial goals.\n.\n.\n.\n.\n.\n.\n#carachanaranade #rachanaranade #sandeepmaheshwari #motivationalquotes #motivation #stockmarket #longtermgoals #money #investment",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:12:25.432Z",
+        "access": "apify"
+      },
+      {
+        "id": "p9-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DCTcfAnI7O_/",
+        "text": "From posing with his wax statue to meeting him in real life! \n\nAs I've often said, you all are like my extended family, and today, I’m excited to share one of the most memorable moments of my journey with you.\n\nIn 2016, during a visit to Madame Tussauds Wax museum in London, I took a picture with the statue of our Honourable Prime Minister Shri Narendra Modi ji. Back then I was a teacher teaching CA and MBA Finance students and imagining that I would be able to experience the same moment in real life with him was a dream too good to be true!  But it’s said that dreams do come true!! So, Fast f",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:12:25.432Z",
+        "access": "apify"
+      },
+      {
+        "id": "p9-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DLzqgPwo3t7/",
+        "text": "We got this Mercedes GLE 450 as a gift.\nNot from anyone else — we gifted it to ourselves. 🎁\n\n15 years ago, owning this car was just a dream.\nA dream that began when we owned a Maruti 800.\nIt felt big… bold… even laughable.\n\nBut we made a conscious decision:\nWe won’t buy a luxury car until our capital gains (profits) from few long term stocks could fully fund it.\n\nSo we spent a lot of time in researching.\nWe invested in good companies.\nWe stayed invested.\nNo panic. No shortcuts. Just patience and discipline.\n\nEventually, our dream turned into reality.\n\nThis car isn’t just a milestone.\nIt’s a p",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:12:25.432Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Entrepreneurship",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p9-li-1",
+          "p9-li-2"
+        ]
+      },
+      {
+        "label": "Writing",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p9-li-1",
+          "p9-ig-4"
+        ]
+      },
+      {
+        "label": "Finance Education",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p9-li-1",
+          "p9-li-2",
+          "p9-ig-3"
+        ]
+      },
+      {
+        "label": "Long‑term Investing",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p9-ig-4"
+        ]
+      },
+      {
+        "label": "Personal Finance Goals",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p9-ig-6"
+        ]
+      },
+      {
+        "label": "Motivation & Inspiration",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p9-ig-4"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What strategies do you find most effective for engaging a large online audience in finance education?",
+      "How do you balance teaching complex financial concepts with maintaining accessibility for beginners?",
+      "What future initiatives are you planning to expand your educational impact?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "The LinkedIn CA Rachana Ranade profile and verified Instagram CA Rachana Phadke Ranade account share the finance education role and same creator brand.",
+    "createdAt": "2026-09-29T12:12:25.432Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://instagram.fedi1-1.fna.fbcdn.net/v/t51.2885-19/338197680_893900558581872_3795992902624216064_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fedi1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFjH2lRbYQa7-01Q_K5MsYNyl1mQQwkD5OeQZZKLeX06I3ECdaHZDy0ELetouJM10w&_nc_ohc=sh5Rs3Q3lM8Q7kNvwGh4ALQ&_nc_gid=BToSXix0AYwhOeXACQXMUw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNz3uMkJ8lIzC9HVcgNLPr7MZMsvLRycsMTZMWy_2rjoA&oe=6AC16FAC&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-10",
+    "name": "Tanmay Bhat",
+    "initials": "TB",
+    "headline": "Comedian, Youtuber, Investor. Reach out to me via the link in the description.",
+    "summary": "Tanmay Bhat presents himself as a comedian and YouTuber who also engages in entrepreneurship and investing. His public posts emphasize humor, content creation, and occasional surprise events for friends.",
+    "color": "rose",
+    "linkedinUrl": "https://www.linkedin.com/in/thetanmay/",
+    "instagramUrl": "https://www.instagram.com/tanmaybhat/",
+    "instagramHandle": "tanmaybhat",
+    "evidence": [
+      {
+        "id": "p10-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/thetanmay/",
+        "text": "Comedian, Youtuber, Investor. Reach out to me via the link in the description.",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:12:34.608Z",
+        "access": "apify"
+      },
+      {
+        "id": "p10-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/thetanmay/",
+        "text": "YouTuber, Enterpreneur, Investor\n\nI’m just a guy, standing in front of LinkedIn. Asking for a connection.",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:12:34.608Z",
+        "access": "apify"
+      },
+      {
+        "id": "p10-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/tanmaybhat/",
+        "text": "Comedian, YouTuber, Entrepreneur",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:12:34.608Z",
+        "access": "apify"
+      },
+      {
+        "id": "p10-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DFgATRiu04v/",
+        "text": "😭😭😭 ♥️♥️♥️",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:12:34.608Z",
+        "access": "apify"
+      },
+      {
+        "id": "p10-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/CxLRcWft5C4/",
+        "text": "We surprised @inaveedm with a car. And his reaction was 🤌🤌 Full vlog on the channel",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:12:34.608Z",
+        "access": "apify"
+      },
+      {
+        "id": "p10-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/Db3XlI1sDiq/",
+        "text": "gang leader joins OG gang",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:12:34.608Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Comedy",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p10-li-1",
+          "p10-ig-3"
+        ]
+      },
+      {
+        "label": "YouTube content creation",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p10-li-1",
+          "p10-li-2",
+          "p10-ig-3"
+        ]
+      },
+      {
+        "label": "Entrepreneurship",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p10-li-2",
+          "p10-ig-3"
+        ]
+      },
+      {
+        "label": "Investing",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p10-li-1"
+        ]
+      },
+      {
+        "label": "Surprise gifting",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p10-ig-5"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to combine comedy with entrepreneurship?",
+      "How do you balance your roles as a YouTuber and an investor?",
+      "What’s the most memorable surprise you’ve organized for a friend?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "The same full name, entrepreneurship and creator identity appear in both accounts; verified Instagram additionally identifies comedy.",
+    "createdAt": "2026-09-29T12:12:34.613Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://instagram.fmex15-1.fna.fbcdn.net/v/t51.2885-19/32767194_2144122595871965_823091965011689472_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40OTMuYzIifQ&_nc_ht=instagram.fmex15-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gHSddBsBz4VgKFeYyc3R8keeqRV7RBpyC5mBWgKKz73l5pp-Jo38rlxFIf-k2RzRZRrsvcfpgCyr3Mk2lk8xPk8&_nc_ohc=-6zMlEfVNBAQ7kNvwH_z73X&_nc_gid=rWPGIhf07rAGXfsSz_7W2g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQP3xwyRKRr94sH9dVdw1iLVzozHhd8DYlR5ar7yk6-pgQ&oe=6AC175D7&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-11",
+    "name": "Ansh Mehra",
+    "initials": "AM",
+    "headline": "Agentic AI Trainings for Enterprises • Custom Agentic AI Enablement Programs • The Cutting Edge School",
+    "summary": "Ansh Mehra is a founder and educator focused on AI and automation, running The Cutting Edge School and delivering training to major enterprises across UAE and India. He actively shares his expertise through a popular YouTube channel and an Instagram presence that also showcases travel and fashion interests.",
+    "color": "rose",
+    "linkedinUrl": "https://www.linkedin.com/in/anshmehra24/",
+    "instagramUrl": "https://www.instagram.com/anshmehra.in/",
+    "instagramHandle": "anshmehra.in",
+    "evidence": [
+      {
+        "id": "p11-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/anshmehra24/",
+        "text": "Agentic AI Trainings for Enterprises • Custom Agentic AI Enablement Programs • The Cutting Edge School",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:12:57.155Z",
+        "access": "apify"
+      },
+      {
+        "id": "p11-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/anshmehra24/",
+        "text": "Founder at the Cutting Edge School, we've trained enterprises in UAE & India on AI and Automations. I've also represented India at the Global Prompt Engineering Championship 2025.\n\nOur organisation, The Cutting Edge School has trained teams for The Economic Times, Dubai Future Foundation, Dubai Holdings, Lenskart, Reliance Digital, HP, Intel and many other global brands.\n\nOur channel has 500K+ on YouTube and 220K+ on Instagram where we teach students and professionals AI for free.\n\nYouTube Channel: https://www.youtube.com/channel/UCZknyXD-6tETm9aN8GQCi8g\n\nInstagram: https://instagram.com/anshm",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:12:57.155Z",
+        "access": "apify"
+      },
+      {
+        "id": "p11-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/anshmehra.in/",
+        "text": "Teaching how to use real intelligence with AI at @thecuttingedge.school",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:12:57.155Z",
+        "access": "apify"
+      },
+      {
+        "id": "p11-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DdODBL-DOb7/",
+        "text": "visiting Musée d’Art et d’Histoire (MAH), one of Switzerland’s largest museums. This place has art and archaeological remains as old as 15,000 years! \n\nI am wearing a Sage Overshirt by SUBJKT along with their Sage Trousers, coupled with a vest from Westside and New Balances.\n\n#geneva #indiatravel #switzerland #mahgeneve #travel @swiss_exploress",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:12:57.156Z",
+        "access": "apify"
+      },
+      {
+        "id": "p11-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DYTYXckCfDZ/",
+        "text": "What makes someone extraordinary?",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:12:57.156Z",
+        "access": "apify"
+      },
+      {
+        "id": "p11-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DR_XBeAiYGq/",
+        "text": "This is the Café of Dior Gold House - considered to be a tribute to Christian Dior’s passion for creation in all its forms.\n\nEverything in this cafe was associating Dior codes and Thai emblems.\n\nChristian Dior was called ‘the designer of dreams’ so I obviously had to see this place.\n\nI’m wearing an outfit curated by Italian Vega. Pretty solid quality. Suede loafers are from Zara.\n\n@italianvegaofficial @zara #ootd #dior #bangkok @dior_cafe @dior",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:12:57.156Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Entrepreneurship",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p11-li-2"
+        ]
+      },
+      {
+        "label": "Technology",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p11-li-1",
+          "p11-li-2"
+        ]
+      },
+      {
+        "label": "Writing",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p11-li-2"
+        ]
+      },
+      {
+        "label": "Travel",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p11-ig-4"
+        ]
+      },
+      {
+        "label": "Fashion",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p11-ig-4",
+          "p11-ig-6"
+        ]
+      },
+      {
+        "label": "Photography",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p11-ig-4"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to start The Cutting Edge School?",
+      "Which AI topic do you find most challenging to teach?",
+      "How do you balance your professional commitments with your travel and fashion interests?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "His own LinkedIn post explicitly links his Instagram ID @anshmehra.in: https://www.linkedin.com/posts/anshmehra24_we-are-super-close-towards-hitting-200k-on-activity-7144696672286105600-iKvt",
+    "createdAt": "2026-09-29T12:12:57.156Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://instagram.flhr9-1.fna.fbcdn.net/v/t51.82787-19/671113909_18081398927575479_5119657180974790395_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.flhr9-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gHNkLTrHSWOJb2zcYvqnhVv1Hy8WX3Wvwq24rYK2gkyv-vTNQghyGC1yCgsYy2JJfo&_nc_ohc=s4RGbcDj9SMQ7kNvwHisNWL&_nc_gid=AO8ZFCzwTJvJ7mW2B6Ueug&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNICBIMqwQy1wDVSDIMB11WMCnczM_SbSj10M-Zar52pw&oe=6AC1821C&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-12",
+    "name": "Radhika Gupta",
+    "initials": "RG",
+    "headline": "MD & CEO, Edelweiss Mutual Fund | Author, Limitless and Mango Millionaire | Young Global Leader @ WEF | Shark Tank India",
+    "summary": "Radhika Gupta is a high‑profile executive in asset management, serving as MD & CEO of Edelweiss Mutual Fund and author of best‑selling finance books. She actively shares leadership insights, storytelling, and personal moments on LinkedIn and Instagram, positioning herself as a global business leader and public speaker.",
+    "color": "rose",
+    "linkedinUrl": "https://www.linkedin.com/in/radhikagupta2/",
+    "instagramUrl": "https://www.instagram.com/iamradhikagupta/",
+    "instagramHandle": "iamradhikagupta",
+    "evidence": [
+      {
+        "id": "p12-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/radhikagupta2/",
+        "text": "MD & CEO, Edelweiss Mutual Fund | Author, Limitless and Mango Millionaire | Young Global Leader @ WEF | Shark Tank India",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:13:05.518Z",
+        "access": "apify"
+      },
+      {
+        "id": "p12-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/radhikagupta2/",
+        "text": "Asset management professional, who enjoys leading teams and building businesses.  Proud daughter of an Indian diplomat, global citizen, and child of change.  Writer, storyteller, TEDx and Josh Talks speaker, finding magic in words.\n\nI’m a girl on a mission, with wings of fire!  And I share my little stories along this journey on LinkedIn… \n\nThe best way to connect with me is my official email ID, radhika.gupta@edelweissmf.com.  LinkedIn direct messages may be seen more sporadically.",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:13:05.518Z",
+        "access": "apify"
+      },
+      {
+        "id": "p12-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/iamradhikagupta/",
+        "text": "Wings of 🔥 \n🏦 MD & CEO @edelweissmutualfund\n👩‍💻 Diplobrat, mom, money manager\n🦈 @sharktank.india\n🥻 Saree lover\n📖 Limitless, Mango Millionaire",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:13:05.518Z",
+        "access": "apify"
+      },
+      {
+        "id": "p12-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DTM7hqQCD0f/",
+        "text": "Whiskey is truly the best example of the power of compounding.  An old analogy from my #MaltsandMoney series, that seems to be all over WA.  Analogy is also compounding....",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:13:05.518Z",
+        "access": "apify"
+      },
+      {
+        "id": "p12-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DdgyfsOCPx0/",
+        "text": "A little late, but dump of an amazing birthday weekend in Udaipur.  Thank you to @fairmontudaipurpalace for the warmth and hospitality.  A magical time for the whole family. ❤️",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:13:05.518Z",
+        "access": "apify"
+      },
+      {
+        "id": "p12-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DcX4-XpIaJ8/",
+        "text": "80L crore and compounding trust.  Celebrating one more year at the annual Associations of Mutual Funds of India (AMFI) AGM. \n\nWearing this lovely coffee and cream saree from @kissehbydollyjain by my friend Dolly Jain. ❤️",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:13:05.518Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Entrepreneurship",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p12-li-1"
+        ]
+      },
+      {
+        "label": "Writing",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p12-li-1",
+          "p12-li-2"
+        ]
+      },
+      {
+        "label": "Public Speaking",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p12-li-2"
+        ]
+      },
+      {
+        "label": "Finance / Asset Management",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p12-li-1"
+        ]
+      },
+      {
+        "label": "Travel",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p12-ig-5"
+        ]
+      },
+      {
+        "label": "Fashion / Saree",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p12-ig-3"
+        ]
+      },
+      {
+        "label": "Wellbeing / Family",
+        "category": "interest",
+        "status": "tentative",
+        "confidence": "low",
+        "evidenceIds": [
+          "p12-ig-5"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to write your books on finance?",
+      "How do you balance your leadership role with your passion for storytelling?",
+      "What future initiatives are you most excited about at Edelweiss Mutual Fund?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "The verified Instagram account and LinkedIn profile match the full name, investment-management career and book Limitless.",
+    "createdAt": "2026-09-29T12:13:05.518Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://scontent-fra3-1.cdninstagram.com/v/t51.2885-19/399391126_711000970550281_8266989524802061386_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEcrRF27NsZAzla6CGiovcjBtMo_YwOiOJ7hjlXyVPGBrzGaenDk0_qLPZEVkdRpHQ&_nc_ohc=de41i7H6gkwQ7kNvwG5XePB&_nc_gid=mvKX4WUwRNZZyiQ0oISSDQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOpldlkKF7PtH9tE4xWflq_JWxNQbaNXaymfkrb2hn7EA&oe=6AC17524&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-13",
+    "name": "Anushka Rathod",
+    "initials": "AR",
+    "headline": "Forbes 30U30 Asia and India | I make Finance Fun | Author - The Money Guide | 2 Mn+ Community",
+    "summary": "Anushka Rathod is a digital content creator and author focused on making finance accessible, boasting a community of over 2 million followers and recognition on Forbes 30 Under 30 Asia and India. She also engages in equity and angel investing and has achieved notable milestones such as bestselling book sales and dual Forbes listings.",
+    "color": "rose",
+    "linkedinUrl": "https://www.linkedin.com/in/anushka-rathod/",
+    "instagramUrl": "https://www.instagram.com/anushkarathod98/",
+    "instagramHandle": "anushkarathod98",
+    "evidence": [
+      {
+        "id": "p13-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/anushka-rathod/",
+        "text": "Forbes 30U30 Asia and India | I make Finance Fun | Author - The Money Guide | 2 Mn+ Community",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:13:14.374Z",
+        "access": "apify"
+      },
+      {
+        "id": "p13-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/anushka-rathod/",
+        "text": "I'm Anushka Rathod, a digital content creator demystifying finance. \n\nIn 2020, I discovered: finance content is lengthy and dull, pushing people away. \nThat's when I decided to change this!  \n\nI began breaking down complex financial concepts into bite-sized, entertaining nuggets that's accessible to people from all walks of life. \n\nToday, I'm thrilled to have a community of over 2 million followers. \n\nTogether, we're sharing practical knowledge, insightful tips, and tricks to empower you on your financial journey.\n\nBeyond content creation, I am also an equity and angel investor with previous e",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:13:14.374Z",
+        "access": "apify"
+      },
+      {
+        "id": "p13-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/anushkarathod98/",
+        "text": "Practical Money Tips and Indian Economy Insights :) \n✨ Forbes 30u30 India and Asia\nBestselling Author - THE MONEY GUIDE",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:13:14.374Z",
+        "access": "apify"
+      },
+      {
+        "id": "p13-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/C3W3bTWNFfP/",
+        "text": "My mom used to tell me “ Participate in everything, Even if you don’t win, you’ll  learn something”. \n\nAnd I did just that. \n\nAlthough up until now, I had just been collecting participation certificates.\n\nBut Ma, I finally won!\nYour daughter made it to the Forbes 30 under 30 list and is on the cover!\n\nI trained in Hindustani classical music for nine years, but didn’t have the voice. \nCompeted in Taekwondo, but had to give up due to health issues.\nTook up competitive elocution but didn’t get past the state level. \nStudied really hard for boards but couldn’t get into my dream college.\nThen built",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:13:14.374Z",
+        "access": "apify"
+      },
+      {
+        "id": "p13-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/C89yXf6BfQm/",
+        "text": "Whatttt just happened!!!!! 🥹🥹\n\nWe crossed 1Mn on Instagram and my book The Money Guide crossed Rs10 Lakh in sales on launch and became a bestseller on Amazon! \n\nThis was unexpected because I have only been promoting links of my books’ own website and not Amazon, so that is mostly organic sales!\n\nNow we are even more confident and have started aggressively promoting it 🙌\n\nI can’t thank you all enough! Definitely planning something to give back to you all soon!! \n\nAlso, wanted to share this one story, so my book was lying around at one of my readers house and their dad saw my face and said, “",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:13:14.374Z",
+        "access": "apify"
+      },
+      {
+        "id": "p13-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/C7EsAfYBf_5/",
+        "text": "We made it to FORBES 30u30 ASIA, 2024!!!!! ✨✨\n\nWhen I started making content, little did I imagine I would be on Forbes some day. That too not just once but twice! In the same year! \n\nI am the only creator ever to be in both the lists in the same year.\n\nI still can’t believe it 😅\n\nAnd this is all organic. Not paid at all, just poured out my heart explaining my journey, plans and ambitions for the questions they asked me!\n\nIt is a week of a few other milestones too.🫰\nMy book just went for printing!\nWe just surpassed targets for the Influence club!\n\nAnd yet, sometimes I feel like I’m lagging. ",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:13:14.374Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Entrepreneurship",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p13-li-1"
+        ]
+      },
+      {
+        "label": "Writing",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p13-li-1",
+          "p13-ig-3"
+        ]
+      },
+      {
+        "label": "Finance Education",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p13-li-2"
+        ]
+      },
+      {
+        "label": "Digital Content Creation",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p13-li-2"
+        ]
+      },
+      {
+        "label": "Investing",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p13-li-2"
+        ]
+      },
+      {
+        "label": "Public Speaking",
+        "category": "interest",
+        "status": "tentative",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p13-ig-4"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to start simplifying finance content?",
+      "How do you balance content creation with your investing activities?",
+      "What future projects are you most excited about?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "Both accounts use Anushka Rathod and focus on accessible finance education; Instagram lists The Money Guide.",
+    "createdAt": "2026-09-29T12:13:14.375Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://scontent-muc2-1.cdninstagram.com/v/t51.2885-19/147867491_5483264791715479_9058950969274248160_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEV2NExnNOgl0Xk04rHkyY0iIEsFfSIHxH1JQhWWROIz7Gk_G3Pbm7RBwYOMaEqgxc&_nc_ohc=YglF4_5XjbQQ7kNvwGMgskU&_nc_gid=qo8yU9D8fa6Z5AgP8lMlyA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNdTYjE_bLqEsR5RwXwPUTEQru7OyfL5FtRQbpaiUapdQ&oe=6AC177DF&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-14",
+    "name": "Athaliah Braganza",
+    "initials": "AB",
+    "headline": "Founder at DiSTORT Studios | Freelance Photographer & Videographer | Food Photographer | Product Photographer | Fashion Photographer | Helping Brands with Great Images 📷📷",
+    "summary": "Athaliah Braganza is a creative entrepreneur who runs DiSTORT Studios, specializing in product, food, and fashion photography and styling for brands. She consistently showcases her passion for visual storytelling through both her LinkedIn and Instagram posts, highlighting her expertise in product presentation and aesthetic design.",
+    "color": "ochre",
+    "linkedinUrl": "https://www.linkedin.com/in/freelancephotographer123/",
+    "instagramUrl": "https://www.instagram.com/athaliahbraganza_/",
+    "instagramHandle": "athaliahbraganza_",
+    "evidence": [
+      {
+        "id": "p14-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/freelancephotographer123/",
+        "text": "Founder at DiSTORT Studios | Freelance Photographer & Videographer | Food Photographer | Product Photographer | Fashion Photographer | Helping Brands with Great Images 📷📷",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:13:23.137Z",
+        "access": "apify"
+      },
+      {
+        "id": "p14-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/freelancephotographer123/",
+        "text": "Hi, I'm Athaliah and I'm a Photographer, Videographer and Stylist at heart! \n\nEver since my childhood I loved playing around with cameras and shooting great images and that's where my passion comes from. Over time whilst doing multiple jobs I realized that my hear lies in helping brands get out great images of their product!\n\nSo that's where I started - I reached out to a few restaurants and companies and we started shooting great images for them. Since then we have worked with more than 100 brands with awesome pictures that are well styled, shot and edited.\n\nDoing great product photography, f",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:13:23.137Z",
+        "access": "apify"
+      },
+      {
+        "id": "p14-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/athaliahbraganza_/",
+        "text": "Stylist | Food Photographer | Product Photographer\nFounder @distortstudios ⚡️\n🍸 We help Brands with great Content! \n☎️ Call us on 9820733763 \n📍Mumbai",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:13:23.137Z",
+        "access": "apify"
+      },
+      {
+        "id": "p14-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DMz5KZGInpd/",
+        "text": "Not gonna lie, sometimes styling diamonds is like styling people. (Don’t judge me yet 😅)\n You want to bring out what already exists: their mood, their charm, their sparkle. All you haveto do is listen closely. \nThis shoot with Origem had me thinking about contrast how beauty shows up in the unexpected. ☺️✨\n\nSometimes the best styling isn’t about more // it’s about getting out of the way. Letting the light do the work. Letting the piece speak for itself. 💎\n\nStyled for this beautiful brand. With lots of love and leftover chocolate. 🍫✨ \n\n#styling  #JewelryWithATwist #BehindTheStyling #Jewels #",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:13:23.137Z",
+        "access": "apify"
+      },
+      {
+        "id": "p14-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DNDZ13XIxEq/",
+        "text": "This shoot was all about taking the classic and flipping it. 😍💎\n In Image 1: the terracotta tennis ball meets the cold sparkle of fine-cut diamonds. You almost want to play fetch with it, but also maybe store it in a velvet box. 🧶 ⁠ In Image 2: I wanted the bracelet to look like it was dancing not just held, but draped, flowing & alive. Minimal backdrop, but max emotion. 💎🪄\n\nStyling is fun when you let materials talk. ✨🪩\n\n#styling  #JewelryWithATwist #BehindTheStyling #Jewels #RealCreativeWork #JewelryStylist  #CreativeSetDesign #VisualPlayground #Jewellery",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:13:23.137Z",
+        "access": "apify"
+      },
+      {
+        "id": "p14-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DP6Ics4CCg7/",
+        "text": "I kept the palette monochromatic. Think nutty browns, golden yellows, and warm neutrals to let the peanut butter take center stage. Because sometimes, simplicity (and a good drizzle) says it all. 🥜☕\n\n#FoodStyling #BreakfastMood #PeanutButterLove #GoldenTones #VisualMood",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:13:23.137Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Entrepreneurship",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p14-li-1",
+          "p14-li-2"
+        ]
+      },
+      {
+        "label": "Photography",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p14-li-1",
+          "p14-li-2",
+          "p14-ig-3"
+        ]
+      },
+      {
+        "label": "Videography",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p14-li-2"
+        ]
+      },
+      {
+        "label": "Styling",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p14-ig-3",
+          "p14-ig-4",
+          "p14-ig-5"
+        ]
+      },
+      {
+        "label": "Food Photography",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p14-li-1",
+          "p14-ig-6"
+        ]
+      },
+      {
+        "label": "Product Photography",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p14-li-1",
+          "p14-li-2"
+        ]
+      },
+      {
+        "label": "Fashion Photography",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p14-li-1"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to transition from a general photography background to focusing specifically on product and food photography?",
+      "How do you balance creative styling with the commercial objectives of the brands you work with?",
+      "What future projects or collaborations are you most excited about at DiSTORT Studios?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "LinkedIn's own Websites section explicitly links to instagram.com/athaliahbraganza_.",
+    "createdAt": "2026-09-29T12:13:23.137Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://scontent.cdninstagram.com/v/t51.2885-19/292577122_160913289846650_8578531410436347553_n.jpg?_nc_cat=101&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=X7KWl4gPcDYQ7kNvwEms7_f&_nc_oc=AdpI9M4P5ZCj2iG-_-3rkuqYZ34QGQH6sZ21taqXeezUTvs9cnx-X5rYpbAe6Al6gaA&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=73689&oh=00_AQO8BfHuTr3F6lGM7xKmHSxwLAbIeM3v9j35f5JmDiI1lw&oe=6AC1797D"
+  },
+  {
+    "id": "person-15",
+    "name": "Aaradhya Shukla",
+    "initials": "AS",
+    "headline": "ux designer, HCI expert | LUCT | White Collar Career ended due to Corporate Malpractice",
+    "summary": "Aaradhya Shukla is a UX designer with a background in branding, graphic design, and product development, emphasizing user satisfaction, efficiency, and teamwork. She also actively shares travel photography and cultural content on Instagram, showcasing a passion for exploring diverse landscapes and sharing travel tips.",
+    "color": "slate",
+    "linkedinUrl": "https://www.linkedin.com/in/ardyshukla/",
+    "instagramUrl": "https://www.instagram.com/ardyshukla/",
+    "instagramHandle": "ardyshukla",
+    "evidence": [
+      {
+        "id": "p15-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/ardyshukla/",
+        "text": "ux designer, HCI expert | LUCT | White Collar Career ended due to Corporate Malpractice",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:13:45.980Z",
+        "access": "apify"
+      },
+      {
+        "id": "p15-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/ardyshukla/",
+        "text": "I’m a product and ux designer with 4 years of success in branding, graphic design and product design and development including web and mobile apps. Achieving user satisfaction & retention through effective strategic thinking, and closely working alongside the front-end team to roll out new changes to users faster. I focus a lot on efficiency and precision which leads the team towards higher productivity and high performance, I work well alone as well as in a team. A solid IT Background and education from Australia laid strong fundamentals for my ux work \n\n1 year of success in event organising,",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:13:45.980Z",
+        "access": "apify"
+      },
+      {
+        "id": "p15-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/ardyshukla/",
+        "text": "Travel Creator 📸 🎥\nCulture | People | Landscape 🇮🇳\nDesigner by profession 💻\nPhotography & travel tips 🏔️\nMy wildlife work @wildlifebyardy",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:13:45.980Z",
+        "access": "apify"
+      },
+      {
+        "id": "p15-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/CtB5pvYOkmM/",
+        "text": "BTS. vs Shot \n\n#kanpur #evening #summer #igreels #travelphotography #travelislife #traveler",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:13:45.980Z",
+        "access": "apify"
+      },
+      {
+        "id": "p15-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/CtL6rmDO8CZ/",
+        "text": "📍Last road of India📍\n\nLast road of India, Dhanuskodi, Rameswaram Island, TN\n\nRameswaram Island is also known as Pamban Island also known as , is an island located between peninsular India and Sri Lanka, on the Rama Setu archipelago. \n\nDhanushkodi is a tiny beach town located in Rameswaram Island where you can see the meeting point of Bay of Bengal and Arabian sea here we can find the last road of India. Sri Lanka is only 31 kilometres away from this road. The color of the beach is like Maldives and water is very clear and visibility is good.",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:13:45.980Z",
+        "access": "apify"
+      },
+      {
+        "id": "p15-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/Csx_J5ltL_R/",
+        "text": "📍Tabo village, Spiti Valley📍\n\nThis is Tabo village in Spiti valley The town lies on the road between Rekong Peo and Kaza at the altitude of 10,760 ft. The town is approximately 40 kilometers away from the border between India and Tibet. It is at the heart of Buddhist traditions with Tabo Monastery being the oldest monastery in India \n\nLocated in Spiti making it an amazing summer destination as it’s the right temperature best times to visit at April - November after which it gets really cold. \n\n#shotoniphone \n\n#spiti #tabo #himachal #himachalpradesh #spitivalley",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:13:45.980Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "UX Design",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p15-li-2"
+        ]
+      },
+      {
+        "label": "Product Design",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p15-li-2"
+        ]
+      },
+      {
+        "label": "Travel Photography",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p15-ig-3",
+          "p15-ig-4",
+          "p15-ig-5",
+          "p15-ig-6"
+        ]
+      },
+      {
+        "label": "Event Organising",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p15-li-2"
+        ]
+      },
+      {
+        "label": "Design (Graphic & UI/UX)",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p15-li-2"
+        ]
+      },
+      {
+        "label": "Culture & People Exploration",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p15-ig-3"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to transition from a white-collar career to UX design?",
+      "Which travel destination has had the biggest impact on your design perspective?",
+      "How do you balance your professional design work with your passion for travel photography?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "LinkedIn's own Portfolio field links to instagram.com/ardyshukla.",
+    "createdAt": "2026-09-29T12:13:45.980Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/358415047_188704543919779_7791053838061797333_n.jpg?_nc_cat=104&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=t-W3fC-Bqf0Q7kNvwGEEQXZ&_nc_oc=Adq_64_XxqI983puvJUJQS2MTDRLWiAGAv4VdOXId8w8FI_P9pGwwBtp77zEqhyhNQln12YdM4fZxdbpXUJe6ukO&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ss=73689&oh=00_AQN0XZrkCFlOCr9v9kRux5dYOEHsrjijxBqpDRVvAhNRRA&oe=6AC18E35"
+  },
+  {
+    "id": "person-16",
+    "name": "Ashray Thakur",
+    "initials": "AT",
+    "headline": "Freelance Photographer at Thakur Ashray Photography\n\nPlease visit Instagram: Thakur Ashray Photography \n#thakurashray_photography",
+    "summary": "Ashray Thakur is a freelance photographer based in the NCR region of India, specializing in commercial, wedding, and fashion photography. He frequently collaborates on film projects and product shoots, showcasing a strong background in photojournalism and design.",
+    "color": "lavender",
+    "linkedinUrl": "https://www.linkedin.com/in/ashray-thakur-4a61b887/",
+    "instagramUrl": "https://www.instagram.com/thakurashrayphotography/",
+    "instagramHandle": "thakurashrayphotography",
+    "evidence": [
+      {
+        "id": "p16-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/ashray-thakur-4a61b887/",
+        "text": "Freelance Photographer at Thakur Ashray Photography\n\nPlease visit Instagram: Thakur Ashray Photography \n#thakurashray_photography",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:13:58.425Z",
+        "access": "apify"
+      },
+      {
+        "id": "p16-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/ashray-thakur-4a61b887/",
+        "text": "Experienced Freelance Photographer with a demonstrated history of working in the photography industry. Skilled in Photojournalism, Adobe Photoshop, Commercial Photography, Fashion Photography, and Wedding Photography. Strong arts and design professional with a Diploma in Still Photography focused in still photography from Triveni Kala Sangam.\n\n#thakurashray_photography",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:13:58.425Z",
+        "access": "apify"
+      },
+      {
+        "id": "p16-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/thakurashrayphotography/",
+        "text": "Commercial & Wedding Photographer based in\n📍Delhi/Gurugram/Noida/NCR, India\n#thakurashray_photography",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:13:58.425Z",
+        "access": "apify"
+      },
+      {
+        "id": "p16-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/CNuh6DCB__p/",
+        "text": "“Rajat ka Mobile” 3 of 3\n\nFinally the wait is over for our film, have a look at our work as a team and mine as a #dop \n\nSemi feature film launched on YouTube Link👇🏻\n( https://youtu.be/u-fbiPJaeRw )\n\nTeam: \n@akshay_chandra @mohammadsamadofficial @nitinbnsl17 @ne.neeraj @ankit_saklani0505 @udaydutt @paman1992 @kandwalkailash\n\n#rajatkamobile #behinethescene #semifeaturefilm #trailer #youtube #dop #film",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:13:58.425Z",
+        "access": "apify"
+      },
+      {
+        "id": "p16-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/CvUiNCLyPEd/",
+        "text": "ENAMOURED- Filled with love\n\nBy: @sohini.arora (@artyzn )\n\n#thakurashray_photography #productphotography #paintings #oilpainting #productphotographyservice #oilpainting #canvaspainting #handmade #oiloncanvas #floralpainting #spiritualpainting",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:13:58.425Z",
+        "access": "apify"
+      },
+      {
+        "id": "p16-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/Cp2mxYEJPS_/",
+        "text": "Sephora Delhi shoot with @athiyashetty \n#thakurashray_photography #sephora #sephoradelhi #makeupbrand #sephoraindia #sephorasquad #athiyashetty #candidphotographer #nopaparazzi #selectcitywalksaket",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:13:58.425Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Photography",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p16-li-1",
+          "p16-li-2",
+          "p16-ig-3"
+        ]
+      },
+      {
+        "label": "Film Production (DOP)",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p16-ig-4"
+        ]
+      },
+      {
+        "label": "Product Photography",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p16-ig-5"
+        ]
+      },
+      {
+        "label": "Collaborative Projects",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p16-ig-4",
+          "p16-ig-6"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to transition from still photography to film work?",
+      "Which location in the NCR region do you find most inspiring for wedding shoots?",
+      "How do you balance commercial assignments with personal creative projects?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "LinkedIn's own Portfolio field explicitly links to instagram.com/thakurashrayphotography.",
+    "createdAt": "2026-09-29T12:13:58.426Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://scontent-gig4-1.cdninstagram.com/v/t51.2885-19/332654131_577701641065330_9039503044548440588_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MjguQzMifQ%3D%3D&_nc_ohc=fuVxa0GicAUQ7kNvwGuWGdy&_nc_oc=AdoFQN5n6RrF6XNxaMI_rmL278eZn2JLptlc4-TqHW3_9v0P6J13jj3QBUvkbgS3feU&_nc_zt=24&_nc_ht=scontent-gig4-1.cdninstagram.com&_nc_ss=73689&oh=00_AQOg_5agIabiweGKyrf78b54iWb8o0n2OqSiYxH4Wp2qJw&oe=6AC17795"
+  },
+  {
+    "id": "person-17",
+    "name": "Weston Teruya",
+    "initials": "WT",
+    "headline": "visual artist / arts grant writer",
+    "summary": "Weston Teruya is a visual artist and grant writer based in the San Francisco Bay Area who actively advocates for cultural equity and supports individual artists through grantmaking and educational outreach. He co‑leads the RelatedTactics collective, curates exhibitions, and engages with contemporary art communities across the U.S. and internationally.",
+    "color": "clay",
+    "linkedinUrl": "https://www.linkedin.com/in/westonteruya/",
+    "instagramUrl": "https://www.instagram.com/westonteruya/",
+    "instagramHandle": "westonteruya",
+    "evidence": [
+      {
+        "id": "p17-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/westonteruya/",
+        "text": "visual artist / arts grant writer",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:14:04.696Z",
+        "access": "apify"
+      },
+      {
+        "id": "p17-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/westonteruya/",
+        "text": "Weston Teruya is an artist, grant writer, and arts advocate working in the San Francisco Bay Area. As an arts administrator, Teruya has focused primarily on grantmaking with a particular interest in cultural equity, individual artist support, and policy. He has almost 15 years of experience on all sides of the grantmaking process--as a grants administrator, reviewer, and grant writer supporting individual artists and organizations in developing financial resources and opportunities. He has also curated exhibitions, written, and served as an educator for youth and adults in community settings a",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:14:04.696Z",
+        "access": "apify"
+      },
+      {
+        "id": "p17-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/westonteruya/",
+        "text": "| artist | & co-lead of @RelatedTactics collective",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:14:04.696Z",
+        "access": "apify"
+      },
+      {
+        "id": "p17-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DcZwauiGm9i/",
+        "text": "somewhat recent art:\n1-2) Joyri Minaya at the Henry Art Gallery in Seattle\n3) Kenzi Shiokava at the MCA Chicago\n4) A copy of The Lumpen Times at Buddy (honored that a convo with @relatedtactics got to be a tiny part of their long running history!)\n5) Alberto Aguilar at the Chicago Cultural Center\n6) Eric-Paul Riege at the Henry\n7) Miguel Novelo at the ICA San José\n8) Ginger Brooks Takahashi at the SAIC Low Residency Graduate MFA Exhibition\n9) #RelatedTactics obligatory Bean photo\n10) wrangled @2natewatson into a long hike with us around Lake Chabot",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:04.696Z",
+        "access": "apify"
+      },
+      {
+        "id": "p17-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DZVYFsKmsh5/",
+        "text": "art around Venice, part 3:\n1-2) Paulo Nazareth, Pinault Collection, Punta Della Dogana\n3) From My Mother’s Country, Repatriates Collective, Ocean Space\n4) from the North Star series, Kambui Olujimi, Arsenale\n5) The Accomplice, Michael Armitage, Pinault Collection, Punta Grassi\n6) excerpt and installation from Screen Melancholy, Li Yi Fan, Taiwan Pavillion\n7) excerpt from DOKU the Illusion, Lu Yang, Espace LV\n8) An Apology (They Will Only Encourage You to Perform the Script), Ryan Gander, Still Joy: From Ukraine into the World exhibition\n9) Umrhubuluzi, Nicholas HLobo, Arsenale\n10) large scale ",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:04.696Z",
+        "access": "apify"
+      },
+      {
+        "id": "p17-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DZQKigTjn5v/",
+        "text": "art around Venice, part 2:\n1) excerpt from Open World, Roman Khimei & Yarema Malashchuk, Still Joy: From Ukraine into the World exhibition\n2) Sofía Gallisá Muriente, Arsenale\n3) fragment of Whisper of Traces, Kader Attia, Arsenale\n4) piece within Con Te Con Tutto, Chiara Camoni, Italy Pavillion\n5) No Matter How Dreary and Gray, We People of Flesh and Blood Would Rather Live Here Than Another Man’s Yard, Lavar Munroe, Bahamas Pavillion\n6) Me So Horny, Le Hien Minh, The Spirits of Maritime Crossing exhibition\n7) guerrilla art out and about, Fierce Pussy\n8) Guadalupe Maravilla, Arsenale\n9) Invisi",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:04.696Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Entrepreneurship",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p17-li-1",
+          "p17-li-2"
+        ]
+      },
+      {
+        "label": "Writing",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p17-li-1",
+          "p17-li-2"
+        ]
+      },
+      {
+        "label": "Arts Advocacy",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p17-li-2"
+        ]
+      },
+      {
+        "label": "Curating",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p17-li-2",
+          "p17-ig-3"
+        ]
+      },
+      {
+        "label": "Community Education",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p17-li-2"
+        ]
+      },
+      {
+        "label": "Travel",
+        "category": "interest",
+        "status": "tentative",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p17-ig-4",
+          "p17-ig-5",
+          "p17-ig-6"
+        ]
+      },
+      {
+        "label": "Photography",
+        "category": "hobby",
+        "status": "tentative",
+        "confidence": "low",
+        "evidenceIds": [
+          "p17-ig-4"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What motivates you to focus on cultural equity in grantmaking?",
+      "How does co‑leading RelatedTactics influence your own artistic practice?",
+      "Which travel destinations have most inspired your recent exhibitions?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "LinkedIn's own Instagram field explicitly links to instagram.com/westonteruya.",
+    "createdAt": "2026-09-29T12:14:04.696Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://instagram.fyyc6-1.fna.fbcdn.net/v/t51.2885-19/511455101_18522111511025657_2317595727143612931_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fyyc6-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFXCMSD1BWFW332i1pmE-0xqMIvpao16kvR0s6r-uzrhwTvJP8u-X0AayOjrmRGJ4Fy3GunHoV9JUjfyu6vSYUq&_nc_ohc=g2Or954zXOEQ7kNvwFRgzzg&_nc_gid=YTf-QuaI8BLpogNwEba9Ow&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQP6wuO01FV3yuwbtzT5ezHKSKNr7b0H2hklt-WbqpA_9g&oe=6AC1762E&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-18",
+    "name": "Roberta Roberti",
+    "initials": "RR",
+    "headline": "Professional Editor/Writer",
+    "summary": "Roberta Roberti is a professional editor and writer specializing in contemporary culinary arts and food media, with a strong background in publishing and project management. She actively shares cooking, gardening, and weather observations on Instagram, indicating a passion for food, gardening, and the outdoors.",
+    "color": "ochre",
+    "linkedinUrl": "https://www.linkedin.com/in/rroberti/",
+    "instagramUrl": "https://www.instagram.com/chefbobi/",
+    "instagramHandle": "chefbobi",
+    "evidence": [
+      {
+        "id": "p18-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/rroberti/",
+        "text": "Professional Editor/Writer",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:14:13.225Z",
+        "access": "apify"
+      },
+      {
+        "id": "p18-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/rroberti/",
+        "text": "Accomplished, performance-driven professional. Superior project management, organizational, and multitasking skills. Demonstrated record of successfully overseeing complex production projects, editorial cycles, layouts, and contributing to marketing and sales with innovative ideas and strategy. \n\nAreas of Expertise:\n☑️ All phases of publishing process from manuscript to final product, including manuscript preparation, editing, and formatting\n☑️ Focus on contemporary culinary arts and food media, including writing, editing, formatting, developing and testing recipes\n☑️ Extensive knowledge of pr",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:14:13.225Z",
+        "access": "apify"
+      },
+      {
+        "id": "p18-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/chefbobi/",
+        "text": "I am an agent of food. Cookbooks are available on Amazon. Party at my blog!",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:14:13.225Z",
+        "access": "apify"
+      },
+      {
+        "id": "p18-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DdulrtpxBvD/",
+        "text": "The sky is a weird color tonight. This Nor'easter will be interesting.#sky #stormsacomin #noreaster #eerieskies",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:13.226Z",
+        "access": "apify"
+      },
+      {
+        "id": "p18-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DdM6BnRHJbu/",
+        "text": "Now that's a #cannoli, #italianpastries\n#kids party",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:13.226Z",
+        "access": "apify"
+      },
+      {
+        "id": "p18-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DdHSfukReZq/",
+        "text": "Homegrown potatoes with fresh fava beans. I was all out of Chianti, though. #growingstuff #gardening #vegetables #amcooking",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:13.226Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Culinary Arts",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p18-li-2",
+          "p18-ig-5"
+        ]
+      },
+      {
+        "label": "Writing",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p18-li-1",
+          "p18-li-2"
+        ]
+      },
+      {
+        "label": "Gardening",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p18-ig-6"
+        ]
+      },
+      {
+        "label": "Photography",
+        "category": "interest",
+        "status": "tentative",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p18-ig-4"
+        ]
+      },
+      {
+        "label": "Travel",
+        "category": "interest",
+        "status": "tentative",
+        "confidence": "low",
+        "evidenceIds": [
+          "p18-ig-4"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to focus on contemporary culinary arts in your writing?",
+      "How do you balance your editorial projects with your personal cooking and gardening activities?",
+      "Do you have any upcoming cookbook releases or blog events you’re excited about?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "LinkedIn's own Personal Website field explicitly links to instagram.com/chefbobi.",
+    "createdAt": "2026-09-29T12:14:13.226Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://scontent-ham3-1.cdninstagram.com/v/t51.2885-19/426418268_302124935826441_5520077196440554082_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNjAuYzIifQ&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE2ihliGFAgRDTgLYBClem1VHWpO51mq0vzH2xmTKDwD5YprP4fnRcAXXqAUztSCdk&_nc_ohc=dffcM6jaZZ4Q7kNvwG27Tl3&_nc_gid=ZaB8efIbQYtm2i6Q6wZQZw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNcrgrVzciWlRnQXSAchnr1baEtWwnCZ2TJGnlJHMR8NQ&oe=6AC16B7B&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-19",
+    "name": "Jackie Moe",
+    "initials": "JM",
+    "headline": "Editor, Director of Digital at Orange County Business Journal | Professor | Book Editor | Abbott World Marathon Majors 6-Star Finisher | RMHC Orange County Board Trustee",
+    "summary": "Jackie Moe is a media and communications leader who directs digital strategy for the Orange County Business Journal and teaches as a professor, blending storytelling, technology, and community impact. She is also a dedicated marathon runner and board trustee for Ronald McDonald House, using her public platform to advocate for families and promote wellness.",
+    "color": "clay",
+    "linkedinUrl": "https://www.linkedin.com/in/thejackiemoe/",
+    "instagramUrl": "https://www.instagram.com/thejackiemoe/",
+    "instagramHandle": "thejackiemoe",
+    "evidence": [
+      {
+        "id": "p19-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/thejackiemoe/",
+        "text": "Editor, Director of Digital at Orange County Business Journal | Professor | Book Editor | Abbott World Marathon Majors 6-Star Finisher | RMHC Orange County Board Trustee",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:14:19.530Z",
+        "access": "apify"
+      },
+      {
+        "id": "p19-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/thejackiemoe/",
+        "text": "I’m a media and communications leader at the intersection of storytelling, digital innovation, and community impact.\n \nAs Director of Digital and Editor at the Orange County Business Journal, I lead the strategy, execution, and growth of our print and digital platforms — overseeing content, audience development, SEO, newsletters, and product initiatives that connect business journalism with the people it serves. My work sits at the center of editorial, technology, and revenue, with a focus on building experiences that are not only informative, but meaningful and accessible.\n \nI founded Backsta",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:14:19.530Z",
+        "access": "apify"
+      },
+      {
+        "id": "p19-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/thejackiemoe/",
+        "text": "SoCal Journalist | Professor | Ronald McDonald House Board \n⭐️ Six Star WMM finisher, 20x Marathoner\n🏃‍♀️ Next: Chicago, OC (10% off JACKIEMOE)",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:14:19.530Z",
+        "access": "apify"
+      },
+      {
+        "id": "p19-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/Ddo8L5UksuR/",
+        "text": "Disney’s Broadway musical Beauty and the Beast is at Segerstrom Center in Costa Mesa now through Oct. 11. 🌹\n\nI had a lovely interview with the amazing Christina Rose Hall, AKA Mrs. Potts, who delivered the role perfectly with the same endearing energy, gentle humor, and powerful vocals. (@backstagesocal) \n\nThis story has always been a favorite. Glad for the bright lobby lighting to glare out the tears I was still wiping after at the photo opp. 🥲 If you have a chance to catch it before the Broadway tour leaves Costa Mesa, I urge you to go take in the magic. \n\nAlso, it was a perfect way of cel",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:19.530Z",
+        "access": "apify"
+      },
+      {
+        "id": "p19-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DdjxtvvGY1c/",
+        "text": "Celebrating one year of serving on the Ronald McDonald House Orange County board and working alongside an incredible group of people to make a difference for families with hospitalized children. \n\nAs a journalist, I’ve spent my career telling other people’s stories. This mission allows me to use my strengths to listen, honor and give a voice to families during their hardest moments.\n\nI carry those stories with me when I run, too. In every marathon, I write 26 names on my arms… dedicating a mile to each name and their stories and honoring their strength. I’m proud to have inspired many runners ",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:19.530Z",
+        "access": "apify"
+      },
+      {
+        "id": "p19-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DdhWPpfSLRX/",
+        "text": "Surf City 10 Miler 🏄‍♀️",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:19.530Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Entrepreneurship",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p19-li-2"
+        ]
+      },
+      {
+        "label": "Writing",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p19-li-2"
+        ]
+      },
+      {
+        "label": "Technology",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p19-li-2"
+        ]
+      },
+      {
+        "label": "Running",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p19-ig-3",
+          "p19-ig-5"
+        ]
+      },
+      {
+        "label": "Marathon Finisher",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p19-li-1",
+          "p19-ig-3"
+        ]
+      },
+      {
+        "label": "Community Service",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p19-li-1",
+          "p19-ig-5"
+        ]
+      },
+      {
+        "label": "Storytelling",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p19-li-2"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to combine journalism with marathon running?",
+      "How does your role on the Ronald McDonald House board influence your editorial work?",
+      "What future digital initiatives are you most excited to lead at the Orange County Business Journal?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "LinkedIn's own Personal Website field explicitly links to instagram.com/thejackiemoe.",
+    "createdAt": "2026-09-29T12:14:19.531Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-19/591018696_18418053898137590_1575835623201206000_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFHHqGBqbmW8izrmuQ8AatXvrFyQu7av_6StJeYAhYFwvhcvZqNRQIlvNnvHIe6oT4&_nc_ohc=01eA84HrowMQ7kNvwHI0gsH&_nc_gid=LH53Hes0IrFfAMzouk-ySQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMcf0HOb0cAHg4QOzHHRqv2LRMUIMB0FCIds3kbqu8XBA&oe=6AC168FD&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-20",
+    "name": "Matthew Norton",
+    "initials": "MN",
+    "headline": "Brand Communications Strategist | Content Strategy • Executive Communications • Creative Direction | Writer & Photographer",
+    "summary": "Matthew Norton is a brand communications strategist, writer, and photographer who has worked closely with senior leaders to craft high‑trust messaging and public campaigns. He actively documents his photography work and engages with local Dallas communities through storytelling and civic projects.",
+    "color": "clay",
+    "linkedinUrl": "https://www.linkedin.com/in/matthewnortonphotos/",
+    "instagramUrl": "https://www.instagram.com/matthewnortonphotos/",
+    "instagramHandle": "matthewnortonphotos",
+    "evidence": [
+      {
+        "id": "p20-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/matthewnortonphotos/",
+        "text": "Brand Communications Strategist | Content Strategy • Executive Communications • Creative Direction | Writer & Photographer",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:14:29.650Z",
+        "access": "apify"
+      },
+      {
+        "id": "p20-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/matthewnortonphotos/",
+        "text": "I’m a brand communications strategist, writer and creative director who helps leaders translate ideas into communication people can understand, trust and remember.\n\nFor six years, I worked alongside senior executive leadership at Christ For The Nations, Inc., shaping high-trust correspondence, organizational announcements, Board-facing materials, public copy, scripts, video messaging and major institutional campaigns. I learned how to preserve a leader’s voice, communicate sensitive decisions with care and anticipate how a message may be received before it is released.\n\nThrough Matthew Norton ",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:14:29.650Z",
+        "access": "apify"
+      },
+      {
+        "id": "p20-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/matthewnortonphotos/",
+        "text": "Photographing Strangers\nOn all platforms as @matthewnortonphotos\nE-mail for partnership inquiries\nDM to book",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:14:29.650Z",
+        "access": "apify"
+      },
+      {
+        "id": "p20-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DdSKHM8Rj_R/",
+        "text": "I thought I was stopping a Dallas police officer for five minutes. Officer Shirley gave me thirty.\n\nI’ve seen Officer Shirley around this small Dallas neighborhood at least half a dozen times, and something has always stood out to me: the man radiates joy. So I walked up to his DPD patrol car and asked a question I’m pretty sure he wasn’t expecting: “When’s the last time someone took your portrait?” What began with a little confusion led us to an unexpectedly deep conversation.\n\nHis mission is simple, but meaningful. He wants the people he serves to know that officers are human too, and he wan",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:29.650Z",
+        "access": "apify"
+      },
+      {
+        "id": "p20-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DdwcN1uxeO3/",
+        "text": "I’ve lived in Dallas for more than a decade and somehow never once stepped onto the M-Line Trolley. Today, I rode one built in 1909.\n\nI met Kevin with the McKinney Avenue Transit Authority, and at one point he asked if I wanted to come see his “toys.” I had no idea that meant walking into a garage filled with historic streetcars being repaired, restored and kept alive by a team of people who know these machines inside and out.\n\nThen I met Rosie. Built in 1909, she’s the oldest operating streetcar in the nation, and more than a century later, she’s still carrying people through Dallas. I’ve dri",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:29.650Z",
+        "access": "apify"
+      },
+      {
+        "id": "p20-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/Dd2cva_gQyt/",
+        "text": "Last night, I showed up to the first-ever Dallas Yell Club gathering.\n\nIn case you missed my recent video with the @dallasyellclub organizer, Shiloh, the idea was born out of grief—but it quickly became community.\n\nI talked with people who came to get some things off their chest, people who came hoping to meet new friends, and people who were mostly there to see if this whole thing was actually legit.\n\nAnd then, just before leaving the scream session, I met Gianni and Daphne.\n\nWorld, meet two people who I’m convinced seldom get bored.\n\nWe talked about cheese in this clip, which somehow became ",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:29.650Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Photography",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p20-li-1",
+          "p20-ig-3"
+        ]
+      },
+      {
+        "label": "Writing",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p20-li-1",
+          "p20-li-2"
+        ]
+      },
+      {
+        "label": "Brand Communications",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p20-li-2"
+        ]
+      },
+      {
+        "label": "Community Engagement",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p20-ig-4",
+          "p20-ig-6"
+        ]
+      },
+      {
+        "label": "Travel/Local Exploration",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p20-ig-5"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to transition from corporate communications to freelance photography?",
+      "Which Dallas neighborhood or event has had the most impact on your storytelling approach?",
+      "How do you balance the creative demands of brand strategy with the authenticity you seek in your personal photography projects?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "LinkedIn's own Personal Website field explicitly links to instagram.com/matthewnortonphotos. Religious details intentionally excluded from interest analysis.",
+    "createdAt": "2026-09-29T12:14:29.650Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://instagram.fykz1-2.fna.fbcdn.net/v/t51.82787-19/746452206_18456677209141281_1343891465242777949_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fykz1-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gE0qMaJq7JHf2RJjNiDfK2YXBbuzyA4HcR_C17KJdJ69WdIhffigWvRa25L5x7SxNElD0OT7Z_i-ShX-byE3BRz&_nc_ohc=Uqp711TYQ8wQ7kNvwEfbXa9&_nc_gid=FhzjydBzElQjUIpog1bPCw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQN6TDz5NfzThi5dwQdck8OYKbNTIgugEB3kztXdTpyxdA&oe=6AC174CC&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-21",
+    "name": "Laura Knapp Kendall",
+    "initials": "LK",
+    "headline": "Co-Founder at Lex + Park ",
+    "summary": "Laura Knapp Kendall is a seasoned digital strategist and co‑founder of Lex + Park, with a background in launching early mobile and social media initiatives for brands such as AT&T and Reebok. She actively manages influencer relationships, maintains a public presence on Instagram, and balances her professional life with motherhood and community events.",
+    "color": "sage",
+    "linkedinUrl": "https://www.linkedin.com/in/lauraknapp/",
+    "instagramUrl": "https://www.instagram.com/lauraknapp/",
+    "instagramHandle": "lauraknapp",
+    "evidence": [
+      {
+        "id": "p21-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/lauraknapp/",
+        "text": "Co-Founder at Lex + Park",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:14:36.672Z",
+        "access": "apify"
+      },
+      {
+        "id": "p21-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/lauraknapp/",
+        "text": "Laura has spent her career building the digital strategy and online presence of brands - supporting and elevating both content creators and a range of companies across industries.\n\nBefore social media was ‘social media’, Laura understood how brands needed to expand their reach beyond traditional print and broadcast media. Laura was part of the team that launched the first iPhone, lead AT&T’s youth marketing efforts, and Reebok’s social presence.  \n\nThis was the era before Twitter, Pinterest or Instagram - a time when MySpace was the only branded option on the Internet. Laura saw where the digi",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:14:36.672Z",
+        "access": "apify"
+      },
+      {
+        "id": "p21-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/lauraknapp/",
+        "text": "Influencer Manager + Marketing Pro. 👩🏼‍💻. \nCo-Founder @lexandpark. #influencemanagement Newport Beach\nMom of✌🏼 💙💙\nShop my favorites 👇🏼",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:14:36.672Z",
+        "access": "apify"
+      },
+      {
+        "id": "p21-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/Db0X7hEIoou/",
+        "text": "OC Fair 🍊 California brothers @oc_fair",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:36.672Z",
+        "access": "apify"
+      },
+      {
+        "id": "p21-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DX4-d2QSVsc/",
+        "text": "In our golf era. ⛳️ The boys started lessons with @tinyteesgolf this spring. #tinytees",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:36.672Z",
+        "access": "apify"
+      },
+      {
+        "id": "p21-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DUSFGQmFOMn/",
+        "text": "New branding loading… \nFirst official @lexandpark photoshoot with @jjefferys \n#lexandpark\n.\n📷 @genuinelyjo",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:36.672Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Entrepreneurship",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p21-li-1"
+        ]
+      },
+      {
+        "label": "Digital Marketing",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p21-li-2"
+        ]
+      },
+      {
+        "label": "Influencer Management",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p21-ig-3"
+        ]
+      },
+      {
+        "label": "Family/Parenting",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p21-ig-3"
+        ]
+      },
+      {
+        "label": "Golf",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p21-ig-5"
+        ]
+      },
+      {
+        "label": "Community Events",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p21-ig-4"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to co‑found Lex + Park?",
+      "How do you balance influencer management with your role as a mom?",
+      "Which upcoming community event are you most excited about?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "LinkedIn's own Personal Website field explicitly links to instagram.com/lauraknapp. Company roster interests must not be assumed to be personal hobbies.",
+    "createdAt": "2026-09-29T12:14:36.672Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-19/625103663_18563393869010644_4009928668341332576_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHjxCwpTkNwlokTxUvJsWAtUK6M10N3ib6-8L_XtJQKFqk1h_a0qMczQRF17GK7haQ&_nc_ohc=P8hk1zVfpjkQ7kNvwH959He&_nc_gid=bNI7C_KTRdKXVfIABZ5RXg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPvIshyTw7ZRzle16E3GS-fZQwWrcfdL-jPEmOeWcy5CA&oe=6AC193F4&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-22",
+    "name": "Sorelle Amore",
+    "initials": "SA",
+    "headline": "Free Human",
+    "summary": "Sorelle Amore is a serial entrepreneur and founder of Free Human, actively sharing her nomadic lifestyle on YouTube and Instagram. She documents off‑grid living, travel adventures, and photography while promoting entrepreneurship and sustainability.",
+    "color": "clay",
+    "linkedinUrl": "https://www.linkedin.com/in/sorelleamore/",
+    "instagramUrl": "https://www.instagram.com/sorelleamore/",
+    "instagramHandle": "sorelleamore",
+    "evidence": [
+      {
+        "id": "p22-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/sorelleamore/",
+        "text": "Founder and CEO. Free Human",
+        "kind": "experience",
+        "retrievedAt": "2026-09-29T12:21:52.490Z",
+        "access": "apify"
+      },
+      {
+        "id": "p22-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/sorelleamore/",
+        "text": "Entrepreneurship. Sorelle Amore",
+        "kind": "experience",
+        "retrievedAt": "2026-09-29T12:21:52.490Z",
+        "access": "apify"
+      },
+      {
+        "id": "p22-li-3",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/sorelleamore/",
+        "text": "Youtuber. YouTube",
+        "kind": "experience",
+        "retrievedAt": "2026-09-29T12:21:52.490Z",
+        "access": "apify"
+      },
+      {
+        "id": "p22-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/sorelleamore/",
+        "text": "Founder @freehuman\n1M YouTube | Investor | Self-Portrait Photog @advanced.selfie | 60 Countries | 18 yrs Nomadic | Part Time Off-Grid | Adventurer",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:21:52.490Z",
+        "access": "apify"
+      },
+      {
+        "id": "p22-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DDfxIx-zn8F/",
+        "text": "Some stills from my latest video on HOW I live in a 4x4 full-time. Let me show you my ultimate tiny home off-grid setup. Link in bio 🤍\n\nLiving full-time in a 4x4 has completely transformed my life—this is no longer just a setup; it’s my home. Today, I’m sharing what daily life looks like on the road, from cooking and cleaning to creating a cozy space in such a small area.\n\nIf you’ve ever wondered what it’s like to live this way, or if you’re dreaming of simplifying your life, I hope this video inspires you to find your own version of freedom.\n\n@nastyneila #4x4 #troopcarriersofaustralia #overl",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:21:52.491Z",
+        "access": "apify"
+      },
+      {
+        "id": "p22-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DG1n8FBzwNZ/",
+        "text": "Son Doong Cave, a UNESCO World Heritage Site, is nestled deep in the jungles of the Phong Nha-Ke Bang National Park in Vietnam.\n\nSon Doong is the world’s largest of its kind, featuring the planet’s largest chamber measuring 183 meters high (600-feet), 91 meters wide (300-feet), and over 4km’s (2.5-miles) long.\n\nThe scale of the site’s interior is so large that it could fit an entire 40-storey block from New York City inside or have a Boeing 747 comfortably fly through without the wings being in any danger 😳\n\nEach year, only a handful of tourists are permitted to enter, with groups going into ",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:21:52.491Z",
+        "access": "apify"
+      },
+      {
+        "id": "p22-ig-7",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/C5VlyPrLKea/",
+        "text": "Frands and Jordan appreciation post 👯‍♀️🇯🇴👯‍♂️\n\nInsert a deep and meaningful caption here about friendships 😉\n\nPic 7 is for sure my fav of us lot and the last piccie is an @advanced.selfie at Petra. I like it. I like it a lot.\n\n#jordan #freehuman #visitjordan",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:21:52.491Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Entrepreneurship",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p22-li-1",
+          "p22-li-2"
+        ]
+      },
+      {
+        "label": "YouTube",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p22-li-3"
+        ]
+      },
+      {
+        "label": "Photography",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p22-ig-4"
+        ]
+      },
+      {
+        "label": "Travel",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p22-ig-4",
+          "p22-ig-5",
+          "p22-ig-6"
+        ]
+      },
+      {
+        "label": "Off‑grid living",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p22-ig-5"
+        ]
+      },
+      {
+        "label": "Sustainability",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "medium",
+        "evidenceIds": [
+          "p22-ig-5"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to transition from traditional business roles to a fully nomadic, off‑grid lifestyle?",
+      "How do you balance the demands of running Free Human with your personal creative projects like YouTube and photography?",
+      "What are the biggest challenges you face when living full‑time in a 4x4 and how do you overcome them?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "LinkedIn's own Company Website field explicitly links to instagram.com/sorelleamore. Lifeguard training supports a skill, not an asserted current swimming hobby.",
+    "createdAt": "2026-09-29T12:21:52.493Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-19/818043530_18638617042003586_4812303518634254377_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGoR1YnMf5PMLy2ZGZGlgABtMeaXia1Q1t1Xxw9xPk9hb3o7qPaQp903qMsbeSJP8N5q51Rvs7eoHmb1TSIh4om&_nc_ohc=RnjLqu2K_u0Q7kNvwFYEezI&_nc_gid=iBh1XT6I_aQl5G4Arze96A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPjcTDybLdsHApEkgzGakFOzvugphCDfYSIhKxycgcHCg&oe=6AC17403&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-23",
+    "name": "Cristiana Dumitru",
+    "initials": "CD",
+    "headline": "Food Content Creator",
+    "summary": "Cristiana Dumitru is a food content creator and social media mentor based in Bucharest, known for her engaging video storytelling and authentic, visually appealing culinary content. She actively collaborates, mentors new creators, and has earned recognition as Best Newcomer in Food Content Creation 2025.",
+    "color": "sage",
+    "linkedinUrl": "https://www.linkedin.com/in/cristiana-dumitru-87039119a/",
+    "instagramUrl": "https://www.instagram.com/christineflavours/",
+    "instagramHandle": "christineflavours",
+    "evidence": [
+      {
+        "id": "p23-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/cristiana-dumitru-87039119a/",
+        "text": "Food Content Creator",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:14:46.396Z",
+        "access": "apify"
+      },
+      {
+        "id": "p23-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/cristiana-dumitru-87039119a/",
+        "text": "🎯 Content creator și mentor social media, cu experiență în crearea de conținut video engaging pentru branduri și în ghidarea creatorilor la început de drum.\n📱 Activă pe Instagram și TikTok, pasionată de storytelling, estetică vizuală și strategii de creștere organică.\n🤝 Deschisă la colaborări în zona de content creation, consultanță social media sau proiecte educaționale în digital.\n✨ Cred în autenticitate, consistență și adaptarea mesajului la publicul potrivit.\n🔍 Caut oportunități flexibile, unde pot aduce valoare prin creativitate, know-how și implicare reală.\n📬 Deschisă la colaborări ",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:14:46.396Z",
+        "access": "apify"
+      },
+      {
+        "id": "p23-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/christineflavours/",
+        "text": "🤍 Mami & Food Creator | 📍 București\n🍽 Aduc gustul copilăriei în prezent\n🥉 Best Newcomer in Food Content 2025\n💌 christineflavours@gmail.com",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:14:46.396Z",
+        "access": "apify"
+      },
+      {
+        "id": "p23-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DRz88f8DXbl/",
+        "text": "Am câștigat, dragilor!\nBest Newcomer in Food Content Creation 🥳\nVă mulțumesc din suflet!\nÎn primul rând… mulțumesc Lui Dumnezeu pentru drumul aceata pe care uneori nici eu nu l-am înțeles, dar m-a dus exact unde trebuia.\nMulțumesc celor dragi mie, oamenilor care au crezut în mine chiar și atunci când eu nu mai credeam.\nMulțumesc mentorului meu, Andrei Ikim, pentru ghidaj, răbdare și direcție — pentru că m-a ajutat să văd în mine lucruri pe care nu le vedeam.\nȘi… mulțumesc vouă, comunitatea mea.\nSuntem aici împreună, nu doar eu.\nFiecare mesaj, fiecare reacție, fiecare rețetă pe care o încercaț",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:46.396Z",
+        "access": "apify"
+      },
+      {
+        "id": "p23-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/C3dXrHvIcFZ/",
+        "text": "Ai poftă de PIZZA, dar nu știi să faci aluatul? 🫓\n#pizza #italia #italy #aluat #dough #try #incearca #cooking #gateste",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:46.396Z",
+        "access": "apify"
+      },
+      {
+        "id": "p23-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DdzDriBDUpI/",
+        "text": "Maioneza a fost una dintre chestiile la care am început să caut alternative după ce a apărut cea mică 🤍\n\nNu pentru că nu-mi place maioneza clasică, ci pentru că nu prea mi se parea ok să folosesc ouă crude într-o variantă pe care urma să o mâncăm cu toții…\n\nAșa că am început să fac varianta asta: cremoasă, gustoasă și fără ouă crude. Iar cel mai mult îmi place că pot să pun aceeași maioneză pe masă pentru toată familia ❤️\n\nNu spun că înlocuiește în orice situație maioneza clasică — dar pentru mesele noastre de zi cu zi, varianta asta și-a găsit foarte bine locul ✨\n\nȘi uite cum, uneori, când a",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:46.396Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Food",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p23-li-1",
+          "p23-ig-3"
+        ]
+      },
+      {
+        "label": "Content Creation",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p23-li-2"
+        ]
+      },
+      {
+        "label": "Storytelling",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p23-li-2"
+        ]
+      },
+      {
+        "label": "Mentoring",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p23-li-2"
+        ]
+      },
+      {
+        "label": "Social Media",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p23-li-2"
+        ]
+      },
+      {
+        "label": "Cooking",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p23-ig-5",
+          "p23-ig-6"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to transition from cooking at home to creating food content?",
+      "Which social media platform do you find most effective for engaging your audience?",
+      "How do you balance authenticity with brand collaborations in your content?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "LinkedIn's own About and Experience sections explicitly link the creator portfolio instagram.com/christineflavours.",
+    "createdAt": "2026-09-29T12:14:46.397Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://instagram.fmcz4-1.fna.fbcdn.net/v/t51.82787-19/534606934_18018895145741133_6215106218641356400_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=instagram.fmcz4-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gFXJMvl1eLsXlBuBaCaxcA1r5HKM-1n7I57T7DvqKqUJedlBzrCTVyrsWbzTzmm6jY&_nc_ohc=gAVZ12UxdL4Q7kNvwF9760z&_nc_gid=dyekRyXZT8-94MMzCdUCQA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMOHZv2OoHT5STqvV_jWODbRuUP56pW5PbFLQVd-9ZjdA&oe=6AC17294&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-24",
+    "name": "Yash Photographer",
+    "initials": "YP",
+    "headline": "Architectural, Interior, Hospitality & Portrait Photographer | HYD, Mumbai, BLR, Delhi | Travel-ready Pan-India | IG: @yash.photographerr | yashphoto24@gmail.com | 📞 9849039179",
+    "summary": "Yash is a professional photographer specializing in architectural, interior, and hospitality photography, operating across India and catering to architects, interior designers, and brands. He emphasizes translating design vision into premium visuals that enhance space value and drive client revenue.",
+    "color": "sage",
+    "linkedinUrl": "https://www.linkedin.com/in/yash-photographer-4a151b31a/",
+    "instagramUrl": "https://www.instagram.com/yash.photographerr/",
+    "instagramHandle": "yash.photographerr",
+    "evidence": [
+      {
+        "id": "p24-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/yash-photographer-4a151b31a/",
+        "text": "Architectural, Interior, Hospitality & Portrait Photographer | HYD, Mumbai, BLR, Delhi | Travel-ready Pan-India | IG: @yash.photographerr | yashphoto24@gmail.com | 📞 9849039179",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:14:53.632Z",
+        "access": "apify"
+      },
+      {
+        "id": "p24-ig-2",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/yash.photographerr/",
+        "text": "Architectural & Interior Photographer\n📍PAN India ✈️\nHelping architects & brands sell spaces visually\n📞 WhatsApp: 9849039179",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:14:53.632Z",
+        "access": "apify"
+      },
+      {
+        "id": "p24-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DRCkb3UEnx1/",
+        "text": "Minimal, calm, and welcoming — exactly what a dental clinic should feel like.\n\nThis project in Hyderabad was all about clean lines, soft lighting, and subtle details that help a space feel premium and reassuring for patients.\n\nI focus on translating an architect’s vision into visuals that help spaces communicate their value.\n\nArchitects, interior designers & brands —\nfollow for premium architectural & interior photography.",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:53.632Z",
+        "access": "apify"
+      },
+      {
+        "id": "p24-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DQ6GYBYkdTQ/",
+        "text": "A refined visual tour of a residence designed around clarity, comfort, and controlled light. From living to dining, bedroom to workspace, each space reflects a calm and intentional design language.",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:53.632Z",
+        "access": "apify"
+      },
+      {
+        "id": "p24-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DPk-Ue1EbBL/",
+        "text": "last year i shot my first airbnb property for this client.\nrecently he told me – “because of your shoot my revenue went up by at least 30%.”\n\nthat honestly made me so happy.\nsharing a few shots from our second shoot together, for another property ✨",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:14:53.632Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Photography",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p24-li-1",
+          "p24-ig-2"
+        ]
+      },
+      {
+        "label": "Travel",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p24-li-1",
+          "p24-ig-2"
+        ]
+      },
+      {
+        "label": "Design",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p24-ig-3",
+          "p24-ig-4"
+        ]
+      },
+      {
+        "label": "Business Growth",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p24-ig-5"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to focus on architectural and interior photography?",
+      "How do you approach collaborating with architects to capture their vision?",
+      "What tools or techniques do you find most effective for enhancing space value in your shots?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "LinkedIn explicitly links instagram.com/yash.photographerr in its own Websites section.",
+    "createdAt": "2026-09-29T12:14:53.633Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://instagram.fyto1-1.fna.fbcdn.net/v/t51.82787-19/602346907_18496346197078827_3770071568672992845_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDUuYzIifQ&_nc_ht=instagram.fyto1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gG6R9lvcTqzAeR5SMh4MEEY6z5CcMOxEjCvjqealCqqdBRGIXlWHR1bN6Qw8ya7ATSLfOsEZigWRHBpMujEjd1t&_nc_ohc=ampa9L_ro1cQ7kNvwHkXgT1&_nc_gid=Mkza7fOkQDqDqio7MJDY6A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQM2EEcz-HjlbbW6srpb-o6Dynrwt6EnCzc7qeDL9eDQmg&oe=6AC18576&_nc_sid=8b3546"
+  },
+  {
+    "id": "person-25",
+    "name": "Artist Siva",
+    "initials": "AS",
+    "headline": "Creative director | Fashion designer | Artist & Photographer | Sharing Stories in Charcoal & Lens | Graphic designer | visual story teller  |   Making People Feel Art on LinkedIn",
+    "summary": "Artist Siva is a creative director, fashion designer, and visual storyteller who actively shares his work on LinkedIn and Instagram, emphasizing passion for art and inspiring others. He has received recognition such as the Art Excellence Award 2024 and maintains an active studio presence.",
+    "color": "clay",
+    "linkedinUrl": "https://www.linkedin.com/in/artist-siva/",
+    "instagramUrl": "https://www.instagram.com/artist_siva/",
+    "instagramHandle": "artist_siva",
+    "evidence": [
+      {
+        "id": "p25-li-1",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/artist-siva/",
+        "text": "Creative director | Fashion designer | Artist & Photographer | Sharing Stories in Charcoal & Lens | Graphic designer | visual story teller  |   Making People Feel Art on LinkedIn",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:15:16.757Z",
+        "access": "apify"
+      },
+      {
+        "id": "p25-li-2",
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/in/artist-siva/",
+        "text": "I’m passionate about being an artist. Even though “artist” is just a title, though it may be an earned one. More so, I am very passionate about creativity, using my imagination, being inspired and inspiring others if possible in the process. I accept that with my passion, and owning my title as an artist, that I will be praised by some for my talent and incorrectly stereotyped by others as starving, or not knowing business, or other such silliness.\n\nBeing who you are and being passionate about it is in my opinion, the only way to live. I don’t want or wish for my life to be boring or regimente",
+        "kind": "about",
+        "retrievedAt": "2026-09-29T12:15:16.757Z",
+        "access": "apify"
+      },
+      {
+        "id": "p25-ig-3",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/artist_siva/",
+        "text": "CREATIVE DIRECTOR \nRecord holding artist\nArt Excellence award winner 2024\nOwning @sr._.studios",
+        "kind": "bio",
+        "retrievedAt": "2026-09-29T12:15:16.757Z",
+        "access": "apify"
+      },
+      {
+        "id": "p25-ig-4",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/C3wnCJpyasv/",
+        "text": "ARTICLE IN YESTERDAY'S DHINATHANDHI MAIN NEWS PAPER -\n\nமுயற்சி தான்\nஉனக்கான வெற்றியை\nஉன்னிடம் அழைத்து வரும்... \n\n#artistsiva #artist #drawing #drawing #art #artist #sketch instagram #sketchbook #fanart #drawings",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:15:16.757Z",
+        "access": "apify"
+      },
+      {
+        "id": "p25-ig-5",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/DEctBERS40b/",
+        "text": "🌟 Honored to receive the Art Excellence Award at Covai Vizha 2024, presented by the esteemed director Ponram sir! 🎨✨\n\nArt is the purest way to express our emotions—a language that connects hearts and transcends boundaries. Without art, the world would lose its vibrancy and beauty. 🌍💖\n\nLet’s nurture creativity in children, for they hold the power to heal the world with their imagination. 🌱🎭 Every stroke, every melody, every word has the potential to make a difference.\n\nTo all artists out there: Keep creating, keep inspiring, and let your art speak louder than words! 🖌️💫\n\n#ArtForChange #",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:15:16.757Z",
+        "access": "apify"
+      },
+      {
+        "id": "p25-ig-6",
+        "platform": "instagram",
+        "url": "https://www.instagram.com/p/C4TH9ECScEy/",
+        "text": "ARTICLE ABOUT MY ART IN  DHINAMALAR MAIN NEWS PAPER \n\n#artistsiva #dhinamalar #newspaper",
+        "kind": "post",
+        "retrievedAt": "2026-09-29T12:15:16.757Z",
+        "access": "apify"
+      }
+    ],
+    "traits": [
+      {
+        "label": "Entrepreneurship",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p25-li-1",
+          "p25-ig-3"
+        ]
+      },
+      {
+        "label": "Photography",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p25-li-1"
+        ]
+      },
+      {
+        "label": "Design",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p25-li-1"
+        ]
+      },
+      {
+        "label": "Art",
+        "category": "hobby",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p25-li-2",
+          "p25-ig-4",
+          "p25-ig-5"
+        ]
+      },
+      {
+        "label": "Storytelling",
+        "category": "interest",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p25-li-1",
+          "p25-li-2"
+        ]
+      },
+      {
+        "label": "Creative Direction",
+        "category": "priority",
+        "status": "observed",
+        "confidence": "high",
+        "evidenceIds": [
+          "p25-li-1",
+          "p25-ig-3"
+        ]
+      }
+    ],
+    "unknowns": [
+      "Relationship intentions and availability",
+      "Romantic preferences",
+      "Personal schedule and boundaries"
+    ],
+    "questions": [
+      "What inspired you to pursue a career that blends fashion design with visual storytelling?",
+      "How do you balance your entrepreneurial responsibilities with your creative practice?",
+      "What advice would you give to emerging artists who want to gain recognition in the industry?"
+    ],
+    "sourceStatus": {
+      "linkedin": true,
+      "instagram": true,
+      "publicVerified": true,
+      "identityVerified": true
+    },
+    "status": "ready",
+    "identityNote": "LinkedIn explicitly links instagram.com/artist_siva in its own Websites section.",
+    "createdAt": "2026-09-29T12:15:16.758Z",
+    "engine": "groq",
+    "demo": true,
+    "imageUrl": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-19/746350442_18356138317246154_3514093366341992985_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gH1QEQxBIaKYdw8NlZ-CWjT3M02xyHUmTg3Ne0taboY4yQfFk0J64QfoLrRIYy6XKY&_nc_ohc=nWFiHIl_xt4Q7kNvwFPidpb&_nc_gid=_jfpozWy2BtGgCzCDdrtUA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQN6PnbHKImjKchYu1QnRtMFfch8gppwuZfdmB3soybyYg&oe=6AC183CF&_nc_sid=8b3546"
+  }
+]

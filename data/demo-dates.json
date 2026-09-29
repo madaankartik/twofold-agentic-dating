@@ -1,0 +1,610 @@
+[
+  {
+    "id": "date-01",
+    "aId": "person-01",
+    "bId": "person-06",
+    "scenario": "First coffee",
+    "status": "complete",
+    "messages": [
+      {
+        "text": "Hey Ishan, how about we grab coffee and walk through a nearby bookshop? We could chat about entrepreneurship and productivity. I’m not sure if you’re into that, but it could be fun.",
+        "evidenceIds": [
+          "p1-li-1",
+          "p1-li-2",
+          "p1-ig-6"
+        ],
+        "proposal": "walk",
+        "id": "1b9184e0-e01b-4603-99d4-0c1d454e88f9",
+        "personId": "person-01",
+        "stage": "Opening",
+        "createdAt": "2026-09-29T12:22:01.684Z"
+      },
+      {
+        "text": "I’m not sure about a coffee walk, but a stroll through a nearby bookshop could be a relaxed way to chat about entrepreneurship and productivity. I’d love to hear your thoughts on that.",
+        "evidenceIds": [
+          "p6-li-2",
+          "p6-ig-3"
+        ],
+        "proposal": "walk",
+        "id": "032c20f2-6676-487a-8f89-ab75fe57bd98",
+        "personId": "person-06",
+        "stage": "Exploring",
+        "createdAt": "2026-09-29T12:22:10.645Z"
+      },
+      {
+        "text": "Sounds great! Let’s grab a coffee and stroll through a nearby bookshop—perfect for swapping ideas on entrepreneurship and productivity. I’m curious to hear your thoughts on my latest book and your own projects. If that feels too formal, we can just walk and chat instead.",
+        "evidenceIds": [
+          "p1-li-1",
+          "p1-li-2",
+          "p1-ig-6"
+        ],
+        "proposal": "walk",
+        "id": "cac8d200-1bb0-49bc-bf2b-2913318ea81f",
+        "personId": "person-01",
+        "stage": "Adapting",
+        "createdAt": "2026-09-29T12:22:18.849Z"
+      },
+      {
+        "text": "I’m up for a coffee and a walk through a nearby bookshop—sounds like a relaxed way to exchange ideas on entrepreneurship and productivity. I’m curious about your book too. Let me know the time and place, and we’ll make it happen.",
+        "evidenceIds": [
+          "p6-li-2",
+          "p6-ig-3"
+        ],
+        "proposal": "walk",
+        "id": "0cc1ff77-e703-4f3f-9a67-c00a5ea79877",
+        "personId": "person-06",
+        "stage": "Decision",
+        "createdAt": "2026-09-29T12:22:27.031Z"
+      }
+    ],
+    "assessments": [
+      {
+        "delta": 5,
+        "decision": "explore",
+        "reasons": [
+          "Both parties expressed interest in entrepreneurship and productivity topics and agreed to meet; clear mutual engagement.",
+          "The conversation shows reciprocal enthusiasm and a concrete plan to meet, indicating a high likelihood of a successful interaction."
+        ],
+        "unknowns": [
+          "Specific timing and location details are not finalized; potential scheduling conflicts remain unknown."
+        ],
+        "evidenceIds": [
+          "p1-li-1",
+          "p1-li-2"
+        ],
+        "personId": "person-01",
+        "score": 68
+      },
+      {
+        "delta": 5,
+        "decision": "explore",
+        "reasons": [
+          "Both parties express interest in entrepreneurship and productivity, indicating a shared topic for conversation.",
+          "The conversation shows willingness and enthusiasm to meet, suggesting a good fit for a collaborative or friendly interaction."
+        ],
+        "unknowns": [
+          "Exact availability and location details are not confirmed yet."
+        ],
+        "evidenceIds": [
+          "p6-li-2",
+          "p6-ig-3"
+        ],
+        "personId": "person-06",
+        "score": 72
+      }
+    ],
+    "stage": 6,
+    "engine": "groq",
+    "createdAt": "2026-09-29T12:21:53.565Z",
+    "updatedAt": "2026-09-29T12:23:57.329Z",
+    "demo": true,
+    "version": 6
+  },
+  {
+    "id": "date-02",
+    "aId": "person-06",
+    "bId": "person-11",
+    "scenario": "A weekend afternoon",
+    "status": "complete",
+    "messages": [
+      {
+        "text": "Hey Ansh, how about we head to a local market this afternoon? We could browse tech gadgets, grab a coffee, and chat about upskilling ideas. If that’s not your vibe, let me know!",
+        "evidenceIds": [
+          "p6-li-1",
+          "p6-li-2",
+          "p6-ig-3"
+        ],
+        "proposal": "market",
+        "id": "9638d936-7cf0-4ab0-9dee-6d4162700850",
+        "personId": "person-06",
+        "stage": "Opening",
+        "createdAt": "2026-09-29T12:24:05.908Z"
+      },
+      {
+        "text": "I’m intrigued by a walk through a local art gallery—great for tech inspiration, photography, and a relaxed chat. If that feels off, we can tweak it.",
+        "evidenceIds": [
+          "p11-li-2"
+        ],
+        "proposal": "gallery",
+        "id": "081a781e-7afa-4d1f-9e94-d065256de48e",
+        "personId": "person-11",
+        "stage": "Exploring",
+        "createdAt": "2026-09-29T12:24:14.313Z"
+      },
+      {
+        "text": "Sounds great! A gallery walk could spark fresh ideas for your tech and writing projects. We could stop by a café afterward and brainstorm. If the gallery feels too formal, we can switch to a relaxed stroll in the park instead.",
+        "evidenceIds": [
+          "p6-li-2",
+          "p6-ig-3"
+        ],
+        "proposal": "gallery",
+        "id": "a07fdccf-3fde-461c-b1bb-e155b852ce07",
+        "personId": "person-06",
+        "stage": "Adapting",
+        "createdAt": "2026-09-29T12:24:22.795Z"
+      },
+      {
+        "text": "A gallery walk sounds exciting—great for tech, photography, and writing inspiration. If that feels too formal, we could switch to a relaxed stroll in the park instead.",
+        "evidenceIds": [
+          "p11-li-2",
+          "p11-ig-4"
+        ],
+        "proposal": "gallery",
+        "id": "346cc214-73e0-46b7-a5f2-75c0f2f6b781",
+        "personId": "person-11",
+        "stage": "Decision",
+        "createdAt": "2026-09-29T12:24:31.372Z"
+      }
+    ],
+    "assessments": [
+      {
+        "delta": 5,
+        "decision": "explore",
+        "reasons": [
+          "User shows active interest in tech, writing, and upskilling, matching profile interests.",
+          "User consistently engages and accepts the gallery walk proposal, indicating openness to shared activities."
+        ],
+        "unknowns": [
+          "Exact availability and preferred timing for the outing.",
+          "Any specific constraints or preferences for the type of gallery or café."
+        ],
+        "evidenceIds": [
+          "p6-li-2",
+          "p6-ig-3"
+        ],
+        "personId": "person-06",
+        "score": 72
+      },
+      {
+        "delta": 3,
+        "decision": "explore",
+        "reasons": [
+          "The user’s profile shows strong interests in technology, writing, and photography, all of which can be stimulated by a gallery walk and subsequent café brainstorming. The conversation demonstrates active engagement and willingness to adapt plans, indicating a positive fit for a collaborative outing."
+        ],
+        "unknowns": [
+          "Specific location preferences and availability details are not provided."
+        ],
+        "evidenceIds": [
+          "p11-li-2",
+          "p11-ig-4"
+        ],
+        "personId": "person-11",
+        "score": 67
+      }
+    ],
+    "stage": 6,
+    "engine": "groq",
+    "createdAt": "2026-09-29T12:23:57.333Z",
+    "updatedAt": "2026-09-29T12:24:48.120Z",
+    "demo": true,
+    "version": 6
+  },
+  {
+    "id": "date-03",
+    "aId": "person-11",
+    "bId": "person-17",
+    "scenario": "Something new",
+    "status": "complete",
+    "messages": [
+      {
+        "text": "Hey Weston! How about we explore a local art gallery together—great for inspiration, and we can chat about tech meets creativity. Let me know if that sounds good!",
+        "evidenceIds": [
+          "p11-li-2",
+          "p11-ig-4"
+        ],
+        "proposal": "gallery",
+        "id": "ebd1a745-bb4b-42ef-b33d-4482f6cd553b",
+        "personId": "person-11",
+        "stage": "Opening",
+        "createdAt": "2026-09-29T12:24:56.871Z"
+      },
+      {
+        "text": "Hey Ansh, a gallery visit sounds great! I’m curious about how tech intersects with art—maybe we can pick a space that showcases digital installations. If that’s not your vibe, we could also walk through a local market or a bookshop instead.",
+        "evidenceIds": [
+          "p17-li-1",
+          "p17-li-2"
+        ],
+        "proposal": "gallery",
+        "id": "6668f206-5e5f-4f95-9f0e-b54e43899554",
+        "personId": "person-17",
+        "stage": "Exploring",
+        "createdAt": "2026-09-29T12:25:05.340Z"
+      },
+      {
+        "text": "Sounds exciting! How about we head to a local gallery that features digital art installations—perfect for blending tech and creativity. If that feels too niche, we could stroll through a nearby market or bookshop instead. Let me know what sparks your interest!",
+        "evidenceIds": [
+          "p11-li-1",
+          "p11-li-2",
+          "p11-ig-4"
+        ],
+        "proposal": "gallery",
+        "id": "667cf9f9-aca8-4d8d-a223-d9039e375b0a",
+        "personId": "person-11",
+        "stage": "Adapting",
+        "createdAt": "2026-09-29T12:25:14.176Z"
+      },
+      {
+        "text": "I’d love to visit a gallery that showcases digital installations—your idea feels right up my alley. If that’s too niche, we could stroll through a nearby market or bookshop instead. Let me know what you think!",
+        "evidenceIds": [
+          "p17-li-1",
+          "p17-li-2"
+        ],
+        "proposal": "gallery",
+        "id": "66e47746-514d-4774-bae7-59bf94d34a77",
+        "personId": "person-17",
+        "stage": "Decision",
+        "createdAt": "2026-09-29T12:25:22.347Z"
+      }
+    ],
+    "assessments": [
+      {
+        "delta": 8,
+        "decision": "explore",
+        "reasons": [
+          "Ansh’s profile shows strong interest in technology and creativity, matching the proposed digital art gallery visit.",
+          "Weston expressed enthusiasm for the idea, indicating mutual interest and openness."
+        ],
+        "unknowns": [],
+        "evidenceIds": [
+          "p11-li-2",
+          "p11-ig-4"
+        ],
+        "personId": "person-11",
+        "score": 79
+      },
+      {
+        "delta": 5,
+        "decision": "explore",
+        "reasons": [
+          "Weston’s profile shows strong interest in art, curating, and tech intersections, matching the proposed digital art gallery visit.",
+          "The conversation reflects enthusiastic agreement and flexibility, indicating a good fit for a shared activity."
+        ],
+        "unknowns": [
+          "Exact availability and willingness to commit to the outing"
+        ],
+        "evidenceIds": [
+          "p17-li-1",
+          "p17-li-2",
+          "p17-ig-3"
+        ],
+        "personId": "person-17",
+        "score": 72
+      }
+    ],
+    "stage": 6,
+    "engine": "groq",
+    "createdAt": "2026-09-29T12:24:48.122Z",
+    "updatedAt": "2026-09-29T12:25:39.557Z",
+    "demo": true,
+    "version": 6
+  },
+  {
+    "id": "date-04",
+    "aId": "person-17",
+    "bId": "person-12",
+    "scenario": "First coffee",
+    "status": "complete",
+    "messages": [
+      {
+        "text": "Hey Radhika, how about we explore a local art gallery this weekend? It could spark some creative conversation and give us a chance to chat about entrepreneurship and writing. Let me know if that sounds good!",
+        "evidenceIds": [
+          "p17-li-1",
+          "p17-li-2"
+        ],
+        "proposal": "gallery",
+        "id": "7a215181-7678-4a61-a085-4ab6ec8971c6",
+        "personId": "person-17",
+        "stage": "Opening",
+        "createdAt": "2026-09-29T12:25:47.827Z"
+      },
+      {
+        "text": "That sounds great! A gallery visit could inspire both our entrepreneurial and writing interests. I’m not sure about the exact timing, but I’m open to it.",
+        "evidenceIds": [
+          "p12-li-1",
+          "p12-li-2"
+        ],
+        "proposal": "gallery",
+        "id": "ee3a70c8-df9a-4e0a-bb1a-8a0f5a83fcd6",
+        "personId": "person-12",
+        "stage": "Exploring",
+        "createdAt": "2026-09-29T12:25:56.464Z"
+      },
+      {
+        "text": "Sounds like a plan! I’m free Saturday afternoon—let’s meet at the downtown gallery and chat about art, entrepreneurship, and writing. If that time doesn’t work, we can pick another slot.",
+        "evidenceIds": [
+          "p17-li-1",
+          "p17-li-2"
+        ],
+        "proposal": "gallery",
+        "id": "dff38ecb-b45c-48ae-91e8-c113ef8310e0",
+        "personId": "person-17",
+        "stage": "Adapting",
+        "createdAt": "2026-09-29T12:26:04.868Z"
+      },
+      {
+        "text": "I’m excited about the gallery idea! Saturday afternoon works for me, but I’ll need to check my schedule. Would you prefer we meet at 2 pm or 3 pm? Let me know what fits best, and we can lock it in.",
+        "evidenceIds": [
+          "p12-li-1",
+          "p12-li-2"
+        ],
+        "proposal": "gallery",
+        "id": "142713bc-ff2e-4805-8dd7-c36578f4750c",
+        "personId": "person-12",
+        "stage": "Decision",
+        "createdAt": "2026-09-29T12:26:13.419Z"
+      }
+    ],
+    "assessments": [
+      {
+        "delta": 2,
+        "decision": "explore",
+        "reasons": [
+          "Both parties expressed interest in a gallery visit and discussed aligning schedules",
+          "The conversation shows openness to planning and shared enthusiasm for art, entrepreneurship, and writing"
+        ],
+        "unknowns": [
+          "Exact meeting time confirmation"
+        ],
+        "evidenceIds": [
+          "p17-li-1",
+          "p17-li-2",
+          "p17-ig-3"
+        ],
+        "personId": "person-17",
+        "score": 62
+      },
+      {
+        "delta": 5,
+        "decision": "explore",
+        "reasons": [
+          "Radhika’s interests in entrepreneurship and writing align with the proposed gallery visit, offering mutual conversational topics.",
+          "She has shown openness and flexibility in scheduling, indicating willingness to engage."
+        ],
+        "unknowns": [
+          "Exact availability on Saturday afternoon"
+        ],
+        "evidenceIds": [
+          "p12-li-1",
+          "p12-li-2"
+        ],
+        "personId": "person-12",
+        "score": 65
+      }
+    ],
+    "stage": 6,
+    "engine": "groq",
+    "createdAt": "2026-09-29T12:25:39.560Z",
+    "updatedAt": "2026-09-29T12:26:30.374Z",
+    "demo": true,
+    "version": 6
+  },
+  {
+    "id": "date-05",
+    "aId": "person-12",
+    "bId": "person-13",
+    "scenario": "A weekend afternoon",
+    "status": "complete",
+    "messages": [
+      {
+        "text": "How about we stroll through a local art gallery this afternoon? It could spark some creative ideas for your next write‑up. I’m not sure if you’re up for it, but it sounds like a relaxed way to spend a weekend.",
+        "evidenceIds": [
+          "p12-li-1",
+          "p12-li-2"
+        ],
+        "proposal": "gallery",
+        "id": "eaf4b3b2-e576-48e9-a230-b82087f210a6",
+        "personId": "person-12",
+        "stage": "Opening",
+        "createdAt": "2026-09-29T12:26:38.806Z"
+      },
+      {
+        "text": "I’m not sure if a gallery visit fits your current focus, but it could offer fresh angles for your writing. Would you like to try it or maybe explore a bookshop instead?",
+        "evidenceIds": [
+          "p13-li-1",
+          "p13-ig-3"
+        ],
+        "proposal": "gallery",
+        "id": "0c239094-11ea-492a-9b62-a999ddd9d30d",
+        "personId": "person-13",
+        "stage": "Exploring",
+        "createdAt": "2026-09-29T12:26:47.501Z"
+      },
+      {
+        "text": "I’m intrigued by a walk through the local art gallery—it aligns with your love of writing and public speaking, and could spark fresh angles. If that feels too much right now, a stroll in the nearby market might also inspire. Let me know what feels right.",
+        "evidenceIds": [
+          "p12-li-1",
+          "p12-li-2",
+          "p12-ig-5"
+        ],
+        "proposal": "gallery",
+        "id": "8df03fef-05c5-49d4-a00a-83c690ebd0a5",
+        "personId": "person-12",
+        "stage": "Adapting",
+        "createdAt": "2026-09-29T12:26:56.065Z"
+      },
+      {
+        "text": "I’m open to a gallery walk this afternoon—it could spark fresh angles for your next write‑up. If that feels too much, a stroll in the nearby market might also inspire. Let me know what feels right.",
+        "evidenceIds": [
+          "p13-li-1",
+          "p13-ig-4"
+        ],
+        "proposal": "gallery",
+        "id": "ea68f916-f9ed-4112-8b7a-499d780f5a86",
+        "personId": "person-13",
+        "stage": "Decision",
+        "createdAt": "2026-09-29T12:27:04.515Z"
+      }
+    ],
+    "assessments": [
+      {
+        "delta": 6,
+        "decision": "explore",
+        "reasons": [
+          "Profile shows strong interest in writing and public speaking, which a gallery visit could inspire; user is open to the idea and has expressed willingness to try it"
+        ],
+        "unknowns": [
+          "Specific current focus or schedule constraints not disclosed"
+        ],
+        "evidenceIds": [
+          "p12-li-1",
+          "p12-li-2"
+        ],
+        "personId": "person-12",
+        "score": 69
+      },
+      {
+        "delta": 5,
+        "decision": "explore",
+        "reasons": [
+          "The user has a strong interest in writing and public speaking, and a gallery visit could provide fresh material for content creation.",
+          "The conversation shows willingness to engage in a gallery walk, indicating openness to the activity."
+        ],
+        "unknowns": [
+          "User’s current schedule and energy level for an afternoon outing"
+        ],
+        "evidenceIds": [
+          "p13-li-1",
+          "p13-li-2",
+          "p13-ig-3",
+          "p13-ig-4"
+        ],
+        "personId": "person-13",
+        "score": 69
+      }
+    ],
+    "stage": 6,
+    "engine": "groq",
+    "createdAt": "2026-09-29T12:26:30.382Z",
+    "updatedAt": "2026-09-29T12:27:29.835Z",
+    "demo": true,
+    "version": 6
+  },
+  {
+    "id": "date-06",
+    "aId": "person-13",
+    "bId": "person-09",
+    "scenario": "Something new",
+    "status": "complete",
+    "messages": [
+      {
+        "text": "Hey! How about we visit a local market this afternoon and brainstorm fresh content ideas? I could also bring a notebook for quick sketches. Let me know what you think!",
+        "evidenceIds": [
+          "p13-li-1",
+          "p13-li-2"
+        ],
+        "proposal": "market",
+        "id": "fb57a12c-5e42-42ed-9ab2-c6b052136613",
+        "personId": "person-13",
+        "stage": "Opening",
+        "createdAt": "2026-09-29T12:27:38.353Z"
+      },
+      {
+        "text": "I appreciate the idea of a market visit—sounds lively! I’m not sure if a market fits my current focus on long‑term investing content, but a short walk in a nearby garden could give us fresh inspiration for writing. Let me know if that works for you.",
+        "evidenceIds": [
+          "p9-li-1",
+          "p9-li-2",
+          "p9-ig-4"
+        ],
+        "proposal": "garden",
+        "id": "f5a51501-8ae9-4b8e-a589-bdcb23cc663e",
+        "personId": "person-09",
+        "stage": "Exploring",
+        "createdAt": "2026-09-29T12:27:46.872Z"
+      },
+      {
+        "text": "A garden walk sounds refreshing and could spark some fresh writing ideas. I’m happy to join—just let me know the time and location. If you’d prefer a quick market stroll instead, we can switch plans. Let me know what works best for you!",
+        "evidenceIds": [
+          "p13-li-1",
+          "p13-li-2",
+          "p13-ig-3",
+          "p13-ig-4"
+        ],
+        "proposal": "garden",
+        "id": "ffa88aa7-e8d0-42ea-8802-0823adc0033a",
+        "personId": "person-13",
+        "stage": "Adapting",
+        "createdAt": "2026-09-29T12:27:55.397Z"
+      },
+      {
+        "text": "I’m not sure a garden walk aligns with my focus on long‑term investing content, but it could spark fresh writing ideas. I’m open to a quick stroll if that works for you. Let me know a time that fits your schedule.",
+        "evidenceIds": [
+          "p9-li-1",
+          "p9-li-2",
+          "p9-ig-4"
+        ],
+        "proposal": "garden",
+        "id": "e1295b7c-acc8-4405-804a-1350baa4f756",
+        "personId": "person-09",
+        "stage": "Decision",
+        "createdAt": "2026-09-29T12:28:03.779Z"
+      }
+    ],
+    "assessments": [
+      {
+        "delta": 2,
+        "decision": "maybe",
+        "reasons": [
+          "Profile shows strong interest in writing and finance content creation, aligning with the idea of brainstorming ideas during a walk.",
+          "The other party expressed openness to a quick stroll, indicating potential flexibility for a brief meeting."
+        ],
+        "unknowns": [
+          "Exact availability and preferred timing of the other party",
+          "Whether the garden walk will provide sufficient inspiration for long‑term investing content"
+        ],
+        "evidenceIds": [
+          "p13-li-1",
+          "p13-li-2",
+          "p13-ig-3",
+          "p13-ig-4"
+        ],
+        "personId": "person-13",
+        "score": 69
+      },
+      {
+        "delta": 0,
+        "decision": "maybe",
+        "reasons": [
+          "User shows willingness to adapt plans but expresses uncertainty about alignment with long‑term investing focus",
+          "User repeatedly proposes garden walk, indicating openness to a relaxed setting for content brainstorming"
+        ],
+        "unknowns": [
+          "Exact time and location preferences",
+          "User’s current schedule availability"
+        ],
+        "evidenceIds": [
+          "p9-li-1",
+          "p9-li-2",
+          "p9-ig-4"
+        ],
+        "personId": "person-09",
+        "score": 67
+      }
+    ],
+    "stage": 6,
+    "engine": "groq",
+    "createdAt": "2026-09-29T12:27:29.839Z",
+    "updatedAt": "2026-09-29T12:28:20.686Z",
+    "demo": true,
+    "version": 6
+  }
+]

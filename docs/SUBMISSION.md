@@ -1,31 +1,33 @@
 # Twofold submission
 
+You will deploy and record the video yourself. Follow [DEPLOYMENT.md](DEPLOYMENT.md) for exact setup, deployment, import, and browser verification steps before filling this sheet.
+
 ## Links
 
 Replace each pending value only after opening the final link in a signed-out browser. Do not submit local addresses or guessed deployment URLs.
 
-| Deliverable | Verified link |
+| Deliverable | Link / status |
 | --- | --- |
 | YouTube video, no longer than 3:00 | Pending upload and playback verification |
 | Finished example / demo | Pending deployment verification; use the deployed origin plus `/#people` |
 | Working website | Pending deployment verification; use the deployed origin plus `/#add` for fresh-link entry |
-| Public GitHub repository | Pending public repository verification |
+| Public GitHub repository | [madaankartik/twofold-agentic-dating](https://github.com/madaankartik/twofold-agentic-dating) — verify signed-out access before submitting |
 
 The demo and live site share the same application. The prepared cohort is read-only; fresh profiles and dates are isolated to the evaluator's browser session.
 
 ## Overall explanation
 
-Paste this into the field with the 200-character limit:
+Paste this into the field with the 200-character limit (189 characters):
 
 > Twofold turns LinkedIn and public Instagram into evidence-backed agents. They negotiate simulated dates, assess each other independently, and explain a directional ranking for every person.
 
 ## Technical section
 
-Paste this into the field with the 500-character limit:
+Paste this into the field with the 500-character limit (332 characters):
 
 > TypeScript/Hono uses Apify's HarvestAPI LinkedIn Profile Scraper and Instagram Profile Scraper, without email enrichment. Public HTML/JSON-LD and Instagram embed parsing provide a fallback. Identity and privacy checks gate analysis. SQLite/D1 stores cited evidence; Groq runs separate agents. The UI uses React, Vite and custom CSS.
 
-## What this demonstrates
+## What the finished submission must demonstrate
 
 - At least 25 real adults, each represented by two matched official accounts.
 - Profile analysis before rankings, with evidence available beside each observation.
@@ -95,7 +97,7 @@ Do not fabricate a disagreement or claim a ranking changed if the displayed scor
 ### Delivery
 
 - [ ] `npm run check`, `npm test`, and `npm run build` pass on the release revision.
-- [ ] A clean clone can restore both compact demo files using the README command.
+- [ ] `npm run seed:check` passes, and a clean clone can restore both compact demo files with `npm run seed:import`.
 - [ ] The GitHub repository is public and opens without signing in.
 - [ ] Secrets, raw source dumps, provider run dumps and local databases are excluded from Git history.
 - [ ] The demo and website links open in a signed-out browser.
@@ -110,4 +112,4 @@ The fit index is a transparent heuristic, not a prediction that two people will 
 
 Direct scraping depends on source access and page structure; Apify and model calls depend on configured provider availability and quota. Failed extraction does not become fictional evidence. Job advancement is driven by the open browser and is resumable; it is not a continuously running background queue.
 
-The original cohort-generation scripts require excluded research/provider files. The portable public demonstration is restored from the compact checked-in demo records. The README documents both paths separately.
+The portable public demonstration is restored from the compact checked-in demo records. The public `data/cohort.json` manifest also lets you regenerate the example: fetch the official sources using your own Apify token, run the model agents with your Groq key, then finalize and validate. Raw provider responses stay in ignored local files. The README documents both paths separately.

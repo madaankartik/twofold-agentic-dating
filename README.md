@@ -8,7 +8,9 @@ The people are real; the dialogue and assessments are simulations. The people sh
 
 ## Try the product
 
-The verified website, saved demo, public repository, and YouTube links belong in [the submission sheet](docs/SUBMISSION.md). They are intentionally not fabricated here.
+Repository: [madaankartik/twofold-agentic-dating](https://github.com/madaankartik/twofold-agentic-dating).
+
+Start with the [step-by-step local and Cloudflare deployment guide](docs/DEPLOYMENT.md), then use the [submission sheet and 2:45 recording script](docs/SUBMISSION.md). Deployment and the YouTube recording are performed by the project owner. Website and video URLs remain pending until verified.
 
 Once the site is running:
 
@@ -22,7 +24,7 @@ Search and interest filters help explore the cohort. Original source links are a
 
 ## What the 25-person example covers
 
-The cohort runner analyses 25 people and schedules a cycle of **25 distinct dates**, giving each person two different partners. Each date has four conversation turns and two separate assessments: 100 dialogue turns and 50 verdicts when the run is complete.
+The checked-in example contains **25 people and 25 completed distinct dates**, giving each person two different partners. Each date has four conversation turns and two separate assessments: 100 dialogue turns and 50 verdicts. The saved totals are recorded in [demo-verification.json](data/demo-verification.json) and can be checked with `npm run seed:check`.
 
 Each person receives an ordered list of the other 24 people: **600 directional ranked comparisons**. There are 300 possible unordered pairs; the baseline does **not** claim that all 300 have dated. Completed dates are labeled **Met**. Other entries are explicitly preliminary profile comparisons.
 
@@ -52,7 +54,7 @@ flowchart LR
 | API | Hono with the same application running on Node locally and a Cloudflare-compatible Worker in production |
 | Storage | SQLite locally; a D1 `DB` binding in production; Drizzle-managed SQL schema |
 | Extraction | Apify `harvestapi/linkedin-profile-scraper` and `apify/instagram-profile-scraper`; direct public HTML fallback when Apify is not configured |
-| Analysis and dialogue | Groq Chat Completions; default model `openai/gpt-oss-20b`; strict JSON output and Zod validation |
+| Analysis and dialogue | Groq Chat Completions; default model `openai/gpt-oss-120b`; strict JSON output and Zod validation |
 | Offline model fallback | Clearly labeled deterministic, evidence-based negotiation rules when no Groq key is configured |
 
 ### Exactly two sources
@@ -108,7 +110,7 @@ Ranking evidence coverage is labeled **Moderate** when both profiles have at lea
 
 - Ingestion jobs persist the links, current stage, provider run IDs, intermediate results, and error state.
 - The browser advances a job one step at a time. Its URL contains the job ID, so reloading that URL can resume within the same browser session. This is not an unattended background queue.
-- Date messages and assessments are saved after each successful step. A model or source failure exposes a retry control and keeps completed progress.
+- Date messages and assessments are saved after each successful step. Model rate limits save a cooldown and resume when the browser's timer reaches it. Other model or source failures expose a retry control and keep completed progress.
 - Per-job and per-date database locks prevent overlapping advancement. A lock expires after 90 seconds.
 - Re-entering an already visible URL pair returns the saved profile. That cache is not automatically refreshed.
 - Prepared demo records are shared and read-only. New records are scoped to an HTTP-only browser-session cookie; this is session isolation, not a full account system. The cookie lasts seven days.
@@ -133,7 +135,7 @@ Set these values in `.env.local` as needed:
 | --- | --- |
 | `APIFY_TOKEN` | Enables the two hosted scraping actors. Recommended for LinkedIn, which commonly blocks direct requests. |
 | `GROQ_API_KEY` | Enables model-based analysis, dialogue, and independent assessments. |
-| `GROQ_MODEL` | Optional model override; defaults to `openai/gpt-oss-20b`. Use a model supporting the required JSON schema. |
+| `GROQ_MODEL` | Optional model override; defaults to `openai/gpt-oss-120b`. Use a model supporting the required JSON schema. |
 | `ADMIN_TOKEN` | A strong random value required only to import the prepared demo through the admin endpoint. |
 | `PORT` | Optional local API port; defaults to 8787. Update the Vite proxy if changed. |
 
@@ -141,29 +143,29 @@ Without provider keys, the API still runs and the rules engine works with restor
 
 ### Restore the prepared demo from a clean clone
 
-Start the API first, set `ADMIN_TOKEN`, and confirm both `data/demo-people.json` and `data/demo-dates.json` are present in the release. Then run:
+Start the API first, set `ADMIN_TOKEN`, and confirm both `data/demo-people.json` and `data/demo-dates.json` are present in the release. Then run from the project root:
 
 ```bash
-node --env-file=.env.local --input-type=module <<'JS'
-import fs from 'node:fs';
-const token = process.env.ADMIN_TOKEN;
-if (!token) throw new Error('Set ADMIN_TOKEN in .env.local first.');
-const people = JSON.parse(fs.readFileSync('data/demo-people.json', 'utf8'));
-const dates = JSON.parse(fs.readFileSync('data/demo-dates.json', 'utf8'));
-const response = await fetch('http://127.0.0.1:8787/api/admin/seed', {
-  method: 'POST',
-  headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` },
-  body: JSON.stringify({ people, dates }),
-});
-const result = await response.json();
-if (!response.ok) throw new Error(JSON.stringify(result));
-console.log(result);
-JS
+npm run seed:check
+npm run seed:import
 ```
 
-Refresh the website. The import is idempotent by record ID and requires no scraping or model calls.
+Refresh the website. The importer validates at least 25 ready profiles, valid citations, complete dates, and two different partners per person before writing anything. It writes batches of 20 records and verifies public readback. Re-running is safe by record ID and requires no scraping or model calls. Credentials come from `.env.local` or the environment. For a deployed site, use `npm run seed:import -- --url https://YOUR-ACTUAL-ORIGIN`.
 
-`npm run seed` is the original cohort-generation runner, not the clean-clone restore command. It needs the separate research manifests and private Apify extraction files; those raw files are deliberately excluded from the public repository. It resumes saved profiles and date steps in the local database and exports the compact demo files.
+### Regenerate the cohort from its official links
+
+`data/cohort.json` contains the 25 official URL pairs. To fetch them again and generate fresh model profiles and dates, start the local API once so its migrations create the database, configure your Apify and Groq keys, then run:
+
+```bash
+node --import tsx scripts/fetch-cohort.ts
+npm run seed
+node --import tsx scripts/finalize-demo.ts
+npm run seed:check
+```
+
+The source fetcher batches LinkedIn profiles and resumes saved Apify run IDs. It stores raw provider responses under ignored `data/private/`. The model runner resumes saved profiles and conversation steps in `data/local.db`. Finalization requires exactly 25 completed dates, two dates per person, and 600 rankings; it updates saved verdict scores to the current scoring formula and exports `data/demo-verification.json` alongside the compact demo files.
+
+This generation path uses your provider quota and may take time. Check the actor's current price and your account's remaining credits first. Restoring the checked-in demo uses no provider calls. To intentionally regenerate already cached records, use a separate clean checkout/database so the resumable runner does not return earlier work.
 
 ### Build and test
 
@@ -173,7 +175,7 @@ npm test
 npm run build
 ```
 
-The build emits the frontend into `dist/client/` and a self-contained Worker module into `dist/server/index.js`. The Worker includes the static assets and expects a D1-compatible `DB` binding. Apply the checked-in Drizzle SQL migrations before serving the API, configure provider secrets server-side, then import the prepared cohort through the protected admin endpoint.
+The build emits the frontend into `dist/client/` and a self-contained Worker module into `dist/server/index.js`. `wrangler.jsonc` serves the frontend through Cloudflare Static Assets and sends `/api/*` to the Worker with its D1 `DB` binding. The bundle retains embedded assets for compatible alternate hosts. Follow [DEPLOYMENT.md](docs/DEPLOYMENT.md) to replace the database placeholder, add server secrets, apply migrations, deploy, and import the demo.
 
 `npm start` runs the local API. Use `npm run dev` for the local browser UI. No production host, account, or deployment URL is assumed by these commands.
 
@@ -206,10 +208,13 @@ server/sources.ts     Apify and direct-source adapters
 server/llm.ts         Model prompts, JSON schemas, citation validation
 server/store.ts       Storage, locks, and rate counters
 db/ + drizzle/        Schema and migrations
-scripts/              Build and original cohort-generation utilities
+scripts/              Build, demo import and original cohort-generation utilities
 data/demo-*.json       Compact public demo records, when run is complete
+data/cohort.json       The 25 matched official LinkedIn/Instagram URL pairs
 tests/                Behavioral tests
 docs/SUBMISSION.md    Delivery checklist, final copy, and video script
+docs/DEPLOYMENT.md    Local setup, Cloudflare D1 deployment, and troubleshooting
+wrangler.jsonc        Worker, static assets, and D1 configuration
 ```
 
 Do not commit `.env.local`, API tokens, local SQLite databases, provider run dumps, `data/private/`, or raw research HTML. The public release contains only the deliberately selected public-source evidence and simulated results needed to inspect the assignment.

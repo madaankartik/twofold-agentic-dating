@@ -1,8 +1,64 @@
-import {serve} from '@hono/node-server';import {DatabaseSync} from 'node:sqlite';import fs from 'node:fs';import dotenv from 'dotenv';import {app} from './app';import type {Prepared,Database} from './store';
-dotenv.config({path:'.env.local',quiet:true});fs.mkdirSync('data',{recursive:true});const sqlite=new DatabaseSync('data/local.db');sqlite.exec('PRAGMA journal_mode=WAL;');
-for(const filename of fs.readdirSync('drizzle').filter(f=>f.endsWith('.sql')).sort()) { // Local development migrations mirror the production schema.
- sqlite.exec('CREATE TABLE IF NOT EXISTS _migrations (name TEXT PRIMARY KEY)');if(!sqlite.prepare('SELECT name FROM _migrations WHERE name=?').get(filename)){sqlite.exec(fs.readFileSync('drizzle/'+filename,'utf8'));sqlite.prepare('INSERT INTO _migrations VALUES (?)').run(filename);}
+import { serve } from "@hono/node-server";
+import { DatabaseSync } from "node:sqlite";
+import fs from "node:fs";
+import dotenv from "dotenv";
+import { app } from "./app";
+import type { Prepared, Database } from "./store";
+dotenv.config({ path: ".env.local", quiet: true });
+fs.mkdirSync("data", { recursive: true });
+const sqlite = new DatabaseSync("data/local.db");
+sqlite.exec("PRAGMA journal_mode=WAL; PRAGMA busy_timeout=5000;");
+for (const filename of fs
+  .readdirSync("drizzle")
+  .filter((f) => f.endsWith(".sql"))
+  .sort()) {
+  // Local development migrations mirror the production schema.
+  sqlite.exec("CREATE TABLE IF NOT EXISTS _migrations (name TEXT PRIMARY KEY)");
+  if (
+    !sqlite.prepare("SELECT name FROM _migrations WHERE name=?").get(filename)
+  ) {
+    sqlite.exec(fs.readFileSync("drizzle/" + filename, "utf8"));
+    sqlite.prepare("INSERT INTO _migrations VALUES (?)").run(filename);
+  }
 }
-class Statement implements Prepared {values:any[]=[];constructor(public sql:string){}bind(...values:any[]){this.values=values;return this}async first<T>():Promise<T|null>{return(sqlite.prepare(this.sql).get(...this.values)||null) as T|null}async all<T>(){return{results:sqlite.prepare(this.sql).all(...this.values) as T[]}}async run(){const r=sqlite.prepare(this.sql).run(...this.values);return{meta:{changes:Number(r.changes)}}}}
-const DB:Database={prepare:sql=>new Statement(sql),batch:async queries=>{sqlite.exec('BEGIN');try{const out=[];for(const q of queries)out.push(await q.run());sqlite.exec('COMMIT');return out}catch(e){sqlite.exec('ROLLBACK');throw e}}};
-serve({fetch:(req)=>app.fetch(req,{DB,...process.env}),hostname:'127.0.0.1',port:Number(process.env.PORT||8787)},()=>console.log('Twofold API ready on http://127.0.0.1:8787'));
+class Statement implements Prepared {
+  values: any[] = [];
+  constructor(public sql: string) {}
+  bind(...values: any[]) {
+    this.values = values;
+    return this;
+  }
+  async first<T>(): Promise<T | null> {
+    return (sqlite.prepare(this.sql).get(...this.values) || null) as T | null;
+  }
+  async all<T>() {
+    return { results: sqlite.prepare(this.sql).all(...this.values) as T[] };
+  }
+  async run() {
+    const r = sqlite.prepare(this.sql).run(...this.values);
+    return { meta: { changes: Number(r.changes) } };
+  }
+}
+const DB: Database = {
+  prepare: (sql) => new Statement(sql),
+  batch: async (queries) => {
+    sqlite.exec("BEGIN");
+    try {
+      const out = [];
+      for (const q of queries) out.push(await q.run());
+      sqlite.exec("COMMIT");
+      return out;
+    } catch (e) {
+      sqlite.exec("ROLLBACK");
+      throw e;
+    }
+  },
+};
+serve(
+  {
+    fetch: (req) => app.fetch(req, { DB, ...process.env }),
+    hostname: "127.0.0.1",
+    port: Number(process.env.PORT || 8787),
+  },
+  () => console.log("Twofold API ready on http://127.0.0.1:8787"),
+);

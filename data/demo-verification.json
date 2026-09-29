@@ -1,0 +1,17 @@
+{
+  "verifiedAt": "2026-09-29T13:02:55.484Z",
+  "people": 25,
+  "officialProfileLinks": 50,
+  "completeDates": 25,
+  "datesPerPerson": 2,
+  "dialogueTurns": 100,
+  "independentAssessments": 50,
+  "directionalRankings": 600,
+  "profileEngine": "groq",
+  "dateEngine": "groq",
+  "sources": [
+    "linkedin",
+    "instagram"
+  ],
+  "allPossiblePairsDated": false
+}
